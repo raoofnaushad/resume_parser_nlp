@@ -1,0 +1,10795 @@
+Word	Tag
+ACADEMIC	O
+QUALIFICATIONS:	O
+"
+"	O
+•	O
+B.Com	B-Degree
+from	O
+Christ	B-College Name
+College	I-College Name
+(Calicut	O
+University),	O
+Irinjalakuda	B-Location
+2007.0	B-Graduation Year
+"
+"	O
+•	O
+Higher	B-Degree
+Secondary	I-Degree
+from	O
+St.	B-College Name
+Antony’s	I-College Name
+Higher.	I-College Name
+Secondary.	I-College Name
+School	I-College Name
+(State	O
+Board),Mala-	O
+2004.0	B-Graduation Year
+"
+"	O
+•	O
+S.S.L.C	B-Degree
+from	O
+Holy	B-College Name
+Child	I-College Name
+Convent	I-College Name
+English	I-College Name
+Medium	I-College Name
+High	I-College Name
+School	I-College Name
+(State	O
+Board),Mala-	O
+2002.0	B-Graduation Year
+"
+"	O
+COMPUTER	O
+PROFICIENCY:	O
+"
+"	O
+•	O
+"
+"	O
+•	O
+"
+"	O
+•	O
+"
+"	O
+•	O
+"
+"	O
+•	O
+"
+"	O
+•	O
+"
+"	O
+•	O
+"
+"	O
+•	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+ACADEMIC	O
+EDUCATION:	O
+"
+"	O
+	O
+B-Tech	B-Degree
+Bachelor	I-Degree
+of	I-Degree
+Technology	I-Degree
+(Civil)	I-Degree
+"
+"	O
+	O
+Three	B-Degree
+Year	I-Degree
+Diploma	I-Degree
+of	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+from	O
+Rawalpindi	B-College Name
+Technical	I-College Name
+Collage	I-College Name
+Rawalpindi,	B-Location
+"
+"	O
+"
+"	O
+CERTIFICATION	O
+AND	O
+TRAININGS	O
+COURSE	O
+/	O
+ADDITIONAL	O
+SKILLS:	O
+"
+"	O
+	O
+Sound	O
+Contract	O
+Administration,	O
+Variations	O
+and	O
+Valuation	O
+of	O
+“varied	O
+work”	O
+under	O
+FIDIC	O
+condition	O
+of	O
+Contract.	O
+"
+"	O
+	O
+One	O
+Month	O
+Supervisor	O
+Training	O
+Course	O
+from	O
+Overseas	O
+Bechtel,	O
+Incorporated	O
+at	O
+New	O
+Doha	O
+International	O
+Airport	O
+"
+"	O
+Project	O
+Doha	O
+State	O
+of	O
+Qatar	O
+(Certificate	O
+Issued	O
+from	O
+Overseas	O
+Bechtel,	O
+Incorporated)	O
+OBI.	O
+"
+"	O
+	O
+MS	O
+Word,	O
+Office,	O
+MS-Access,	O
+Primavera	O
+Expedition,	O
+Primavera	O
+Planning	O
+3.1	O
+Version,	O
+time	O
+viewer	O
+and	O
+Plan	O
+swift.	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+BSc	B-Degree
+"
+"	O
+Faculty	O
+"
+"	O
+University	O
+"
+"	O
+Grad.	O
+Year	O
+"
+"	O
+Grad	O
+"
+"	O
+Project	O
+Grad.	O
+"
+"	O
+"
+"	O
+Mechanical	B-Degree
+Power	I-Degree
+Engineering	I-Degree
+"
+"	O
+Engineering	O
+"
+"	O
+Helwan	B-Location
+"
+"	O
+2003.0	B-Graduation Year
+"
+"	O
+Fair	O
+"
+"	O
+Excellent	O
+"
+"	O
+"
+"	O
+Looking	O
+for	O
+"
+"	O
+Procurement	O
+Manager	O
+"
+"	O
+Senior	O
+Procurement	O
+Engineer	O
+"
+"	O
+Senior	O
+Tendering	O
+&	O
+Submittals	O
+Engineer	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Academic	O
+Credentials	O
+"
+"	O
+"
+"	O
+1991.0	B-Graduation Year
+B.Com.	B-Degree
+Securing	O
+69.2%	O
+marks	O
+(86.3%	O
+in	O
+IIIrd	O
+Year)	O
+from	O
+MMH	B-College Name
+College,	I-College Name
+Choudhary	O
+Charan	O
+Singh	O
+University.	O
+"
+"	O
+"
+"	O
+Accomplishments	O
+"
+"	O
+"
+"	O
+-	O
+Kicked	O
+off	O
+unique	O
+strategy	O
+to	O
+merge	O
+five	O
+legal	O
+entities	O
+having	O
+multiple	O
+complexities	O
+in	O
+Eaton.	O
+"
+"	O
+"
+"	O
+-	O
+Held	O
+the	O
+distinction	O
+of	O
+being	O
+the	O
+youngest	O
+person	O
+of	O
+LG	O
+Group	O
+in	O
+India	O
+working	O
+at	O
+CFO	O
+level	O
+"
+"	O
+"
+"	O
+-	O
+Officiated	O
+as	O
+Chief	O
+Operating	O
+Officer	O
+for	O
+a	O
+while	O
+to	O
+manage	O
+business	O
+needs.	O
+"
+"	O
+"
+"	O
+-	O
+Played	O
+significant	O
+role	O
+in	O
+managing	O
+the	O
+short-term	O
+loans	O
+of	O
+Rs.	O
+260.0	O
+crores	O
+(USD	O
+$	O
+56.0	O
+M)	O
+against	O
+Net	O
+worth	O
+of	O
+Rs.	O
+13.0	O
+crores	O
+(USD	O
+$	O
+2.5	O
+M).	O
+"
+"	O
+"
+"	O
+-	O
+Pivotal	O
+in	O
+setting	O
+up	O
+the	O
+new	O
+venture	O
+of	O
+LG	O
+in	O
+different	O
+industries	O
+like,	O
+Consumer	O
+Durable	O
+(LG	O
+Electronics),	O
+Tele-Communication	O
+(LG	O
+Electronics	O
+-	O
+I	O
+&	O
+C	O
+Division)	O
+and	O
+Pharmacy	O
+/	O
+Biotechnology	O
+(LG	O
+Life	O
+Sciences	O
+India	O
+Pvt.	O
+Ltd.).	O
+I	O
+got	O
+elevations	O
+in	O
+all	O
+companies.	O
+"
+"	O
+"
+"	O
+.	.
+Academics	O
+/	O
+TRAININGS/	O
+IT	O
+SKILLS	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+P.hd	B-Degree
+(Geology)	I-Degree
+|	O
+Hemwanti	B-College Name
+Nandan	I-College Name
+Bahuguna	I-College Name
+Garhwal	I-College Name
+(Central	O
+University),	O
+Srinagar	B-Location
+Garhwal,	I-Location
+Uttrakhand,	I-Location
+India	I-Location
+|	O
+2008.0	B-Graduation Year
+"
+"	O
+"
+"	O
+Certificate	B-Degree
+course	I-Degree
+in	I-Degree
+disaster	I-Degree
+Management	I-Degree
+|	O
+IGNOU	B-College Name
+New	B-Location
+Delhi	I-Location
+|2005	B-Graduation Year
+"
+"	O
+"
+"	O
+M.Sc.	B-Degree
+(Geology)|	I-Degree
+Hemwanti	B-College Name
+Nandan	I-College Name
+Bahuguna	I-College Name
+Garhwal	I-College Name
+(Central	O
+University),	O
+Srinagar	B-Location
+Garhwal,	I-Location
+Uttrakhand,	I-Location
+India	I-Location
+and	O
+obtained	O
+1st	O
+class	O
+with	O
+distinction	O
+|2004	B-Graduation Year
+"
+"	O
+"
+"	O
+B.Sc.	B-Degree
+(Geology)|	I-Degree
+Hemwanti	B-College Name
+Nandan	I-College Name
+Bahuguna	I-College Name
+Garhwal	I-College Name
+(Central	O
+University),	O
+Srinagar	B-Location
+Garhwal,	I-Location
+Uttrakhand,	I-Location
+India	I-Location
+and	O
+obtained	O
+1st	O
+class	O
+with	O
+distinction	O
+|2002	B-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+education	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+B.TECH	B-Degree
+(Computer	I-Degree
+Science	I-Degree
+and	I-Degree
+Engineering)	I-Degree
+"
+"	O
+"
+"	O
+Completed	O
+in	O
+2008.0	B-Graduation Year
+"
+"	O
+"
+"	O
+College	O
+:	O
+Younus	B-College Name
+College	I-College Name
+of	I-College Name
+Engineering	I-College Name
+and	I-College Name
+Technology,	I-College Name
+Kollam.	B-Location
+"
+"	O
+"
+"	O
+University:	O
+Kerala	O
+University,	O
+Trivandrum.	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Plus-Two	B-Degree
+(Science)	I-Degree
+"
+"	O
+"
+"	O
+Completed	O
+in	O
+2004.0	B-Graduation Year
+"
+"	O
+"
+"	O
+School	O
+:	O
+Govt	B-College Name
+Higher	I-College Name
+Secondary	I-College Name
+Aiyyankiyickal	B-Location
+"
+"	O
+"
+"	O
+Board	O
+:	O
+Board	O
+of	O
+Higher	O
+Secondary	O
+Examination,	O
+Kerala.	O
+"
+"	O
+"
+"	O
+Tenth	B-Degree
+(SSLC)	I-Degree
+"
+"	O
+"
+"	O
+Completed	O
+in	O
+2001.0	B-Graduation Year
+"
+"	O
+"
+"	O
+School	O
+:	O
+Govt	B-College Name
+Higher	I-College Name
+Secondary	I-College Name
+School,	I-College Name
+Panmana	B-Location
+manayil,	I-Location
+kollam.	I-Location
+"
+"	O
+"
+"	O
+Board	O
+:	O
+Board	O
+of	O
+Public	O
+examinations.	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+"
+"	O
+MS	O
+Excel	O
+"
+"	O
+MS	O
+Word	O
+"
+"	O
+Tally	O
+ERP	O
+9,	O
+(and	O
+older	O
+versions)	O
+"
+"	O
+Paybooks	O
+and	O
+QuickBooks	O
+(Online)	O
+"
+"	O
+Winman	O
+CA	O
+ERP	O
+"
+"	O
+"
+"	O
+B.Com	B-Degree
+(F&A)	O
+"
+"	O
+"
+"	O
+June	B-Graduation Year
+2012.0	I-Graduation Year
+—	I-Graduation Year
+June	I-Graduation Year
+2013.0	I-Graduation Year
+"
+"	O
+"
+"	O
+IGNOU	B-College Name
+"
+"	O
+"
+"	O
+CA	B-Degree
+Inter	I-Degree
+(PCC)	O
+"
+"	O
+"
+"	O
+Sep	B-Graduation Year
+2007.0	I-Graduation Year
+—	I-Graduation Year
+Jan	I-Graduation Year
+2012.0	I-Graduation Year
+"
+"	O
+"
+"	O
+ICAI	B-College Name
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATIONAL	O
+ATTAINMENT	O
+"
+"	O
+"
+"	O
+College	O
+Level	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+LICENSURE	O
+EXAMINATION	O
+FOR	O
+CIVIL	O
+ENGINEERS	O
+"
+"	O
+"
+"	O
+November	O
+2006,	O
+CEBU	O
+City	O
+Philippines	O
+"
+"	O
+"
+"	O
+Registration	O
+No.	O
+107120.0	O
+"
+"	O
+"
+"	O
+Rating	O
+:	O
+85.10%	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Degree	O
+BACHELOR	B-Degree
+OF	I-Degree
+SCIENCE	I-Degree
+IN	I-Degree
+CIVIL	I-Degree
+"
+"	O
+"
+"	O
+ENGINEERING	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+School	O
+Year	O
+2001.0	B-Graduation Year
+–	I-Graduation Year
+2006.0	I-Graduation Year
+"
+"	O
+"
+"	O
+UNIVERSITY	B-College Name
+OF	I-College Name
+EASTERN	I-College Name
+PHILIPPINES	I-College Name
+"
+"	O
+"
+"	O
+University	B-Location
+Town,	I-Location
+Northern	I-Location
+Samar	I-Location
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Vocational	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Degree	O
+BACHELOR	B-Degree
+OF	I-Degree
+SCIENCE	I-Degree
+IN	O
+"
+"	O
+"
+"	O
+INDUSTRIAL	O
+TECHNOLOGY	O
+"
+"	O
+"
+"	O
+Major	O
+DRAFTING	O
+"
+"	O
+"
+"	O
+School	O
+Year	O
+1998.0	B-Graduation Year
+–	I-Graduation Year
+2000.0	I-Graduation Year
+"
+"	O
+"
+"	O
+University	B-College Name
+of	I-College Name
+Eastern	I-College Name
+Philippines	I-College Name
+"
+"	O
+"
+"	O
+Laoang,	B-Location
+Northern	I-Location
+Samar	I-Location
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Secondary	B-Degree
+Level	I-Degree
+"
+"	O
+"
+"	O
+Secondary	B-College Name
+NARVACAN	I-College Name
+NATIONAL	I-College Name
+CENTRAL	I-College Name
+"
+"	O
+"
+"	O
+HIGH	O
+SCHOOL	O
+"
+"	O
+"
+"	O
+School	O
+Year	O
+1994.0	B-Graduation Year
+–	I-Graduation Year
+1998.0	I-Graduation Year
+"
+"	O
+"
+"	O
+Narvacan,	B-Location
+Ilocos	I-Location
+Sur,	I-Location
+Philippines	I-Location
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Elementary	B-Degree
+ORENCE	B-College Name
+ELEMENTARY	I-College Name
+SCHOOL	I-College Name
+"
+"	O
+"
+"	O
+School	O
+Year	O
+1988.0	B-Graduation Year
+–	I-Graduation Year
+1994.0	I-Graduation Year
+"
+"	O
+"
+"	O
+Narvacan,	B-Location
+Ilocos	I-Location
+Sur,	I-Location
+Philippines	I-Location
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+SUMMARY	O
+OF	O
+QUALIFICATION	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+A	O
+Certified	O
+Civil	O
+Engineer	O
+with	O
+six	O
+(7)	O
+years	O
+of	O
+extensive	O
+experience	O
+in	O
+QA/QC	O
+Engineer,	O
+Civil/	O
+Site	O
+Inspector	O
+for	O
+Civil,	O
+Structural	O
+Construction	O
+for	O
+Refineries,	O
+Power	O
+Plants,	O
+Building	O
+&	O
+Industrial	O
+Construction.	O
+Have	O
+good	O
+knowledge	O
+of	O
+Heavy	O
+Civil	O
+Works,	O
+Structural	O
+Works,	O
+Construction	O
+&	O
+Piling	O
+Works,	O
+Asphalts	O
+Paving	O
+&	O
+Concreting	O
+Works,	O
+Roads	O
+&	O
+Highways,	O
+Structure	O
+Grouting,	O
+Sewer	O
+Manholes,	O
+and	O
+Pits	O
+&	O
+Channels.	O
+Well	O
+knowledge	O
+about	O
+Quality	O
+and	O
+Safety	O
+aspects	O
+in	O
+Oil	O
+&	O
+Gas	O
+sector	O
+in	O
+Gulf	O
+region.	O
+"
+"	O
+"
+"	O
+Over	O
+the	O
+years,	O
+I	O
+was	O
+exposed	O
+to	O
+various	O
+working	O
+conditions	O
+performing	O
+varied	O
+duties	O
+and	O
+responsibilities	O
+which	O
+helped	O
+me	O
+developed	O
+a	O
+wide	O
+array	O
+of	O
+understanding,	O
+skills	O
+and	O
+knowledge	O
+of	O
+the	O
+stages	O
+of	O
+the	O
+construction	O
+&	O
+commissioning	O
+industry.	O
+I	O
+have	O
+enhanced	O
+my	O
+analytical	O
+ability	O
+of	O
+interpreting	O
+construction	O
+plans,	O
+understanding	O
+documents	O
+and	O
+specifications,	O
+and	O
+quality	O
+standards.	O
+Among	O
+the	O
+programs	O
+that	O
+I	O
+am	O
+excellent	O
+of	O
+are	O
+AUTOCAD,	O
+Basic	O
+STAAD,	O
+MSOffice,	O
+Web	O
+Browsing	O
+and	O
+e-mailing.	O
+Aside	O
+from	O
+the	O
+technical	O
+qualifications	O
+that	O
+I	O
+have,	O
+I	O
+am	O
+also	O
+flexible	O
+to	O
+work	O
+individually	O
+or	O
+with	O
+teams	O
+in	O
+all	O
+working	O
+conditions	O
+with	O
+my	O
+commitment	O
+to	O
+be	O
+of	O
+my	O
+best	O
+for	O
+the	O
+achievement	O
+of	O
+a	O
+common	O
+goal.	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+"
+"	O
+English,	O
+"
+"	O
+Malayalam,	O
+"
+"	O
+"
+"	O
+Christ	B-College Name
+Knowledge	I-College Name
+City,	I-College Name
+Muvattupuzha—	B-Location
+MTech	B-Degree
+CSE	I-Degree
+"
+"	O
+August	B-Graduation Year
+2013.0	I-Graduation Year
+-	I-Graduation Year
+December	I-Graduation Year
+2015.0	I-Graduation Year
+"
+"	O
+"
+"	O
+Master	B-Degree
+in	I-Degree
+Technology	I-Degree
+-	I-Degree
+Computer	I-Degree
+Science	I-Degree
+and	I-Degree
+Engineering	I-Degree
+"
+"	O
+"
+"	O
+CGPA	O
+-	O
+6.6	O
+"
+"	O
+Arunachala	B-College Name
+College	I-College Name
+of	I-College Name
+Engineering	I-College Name
+"
+"	O
+Kanyakumari—	B-Location
+B.E	B-Degree
+CSE	I-Degree
+"
+"	O
+August	B-Graduation Year
+2009.0	I-Graduation Year
+-	I-Graduation Year
+June	I-Graduation Year
+2013.0	I-Graduation Year
+"
+"	O
+CGPA	O
+-	O
+7.6	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+:	O
+"
+"	O
+Experience:	O
+"
+"	O
+"
+"	O
+Abu	O
+Dhabi,	O
+United	O
+Arab	O
+Emirates	O
+"
+"	O
+Bachelor's	B-Degree
+degree,	I-Degree
+Psychology	I-Degree
+"
+"	O
+9.0	O
+Years,	O
+8.0	O
+Months	O
+"
+"	O
+"
+"	O
+CONTACT	O
+"
+"	O
+Location:	O
+"
+"	O
+"
+"	O
+Abu	O
+Dhabi,	O
+United	O
+Arab	O
+Emirates	O
+"
+"	O
+"
+"	O
+Name:	O
+"
+"	O
+"
+"	O
+Joana	O
+Marie	O
+Bustarde	O
+"
+"	O
+EDUCATION	O
+"
+"	O
+"
+"	O
+Bachelor's	B-Degree
+degree,	I-Degree
+Psychology	I-Degree
+"
+"	O
+at	O
+University	B-College Name
+of	I-College Name
+the	I-College Name
+Assumption	I-College Name
+"
+"	O
+Location:	O
+Philippines	B-Location
+"
+"	O
+April	B-Graduation Year
+2008.0	I-Graduation Year
+"
+"	O
+"
+"	O
+SKILLS	O
+"
+"	O
+ADMINISTRACIÓN	O
+DE	O
+BENEFICIOS	O
+"
+"	O
+"
+"	O
+ADVERTISING	O
+"
+"	O
+"
+"	O
+Level:	O
+(Beginner)	O
+|	O
+Last	O
+Used:	O
+More	O
+than	O
+1.0	O
+year	O
+"
+"	O
+"
+"	O
+Level:	O
+(Beginner)	O
+|	O
+Last	O
+Used:	O
+More	O
+than	O
+1.0	O
+year	O
+"
+"	O
+Summary	O
+of	O
+Qualifications	O
+"
+"	O
+•Excellent	O
+personal	O
+presentation	O
+and	O
+interpersonal	O
+skills	O
+"
+"	O
+•Advance	O
+Computer	O
+Skills	O
+(Microsoft	O
+Offices)	O
+"
+"	O
+•Strong	O
+knowledge	O
+with	O
+onboarding,	O
+visa	O
+processing	O
+procedures	O
+and	O
+documentation	O
+"
+"	O
+•Knowledgeable	O
+in	O
+using	O
+HRMS,	O
+GP	O
+Microsoft	O
+Dynamics	O
+System	O
+"
+"	O
+"
+"	O
+PROFESSIONAL	O
+EXPERIENCE	O
+"
+"	O
+HR	O
+Assistant	O
+at	O
+NIMR	O
+Automotive	O
+subsidiary	O
+of	O
+Emirates	O
+Defense	O
+Industries	O
+(March,	O
+"
+"	O
+till-August,	O
+)	O
+"
+"	O
+•Keeping	O
+track	O
+of	O
+leave	O
+time	O
+such	O
+as	O
+vacation,	O
+holidays,	O
+personal	O
+or	O
+sick	O
+days	O
+for	O
+"
+"	O
+employees.	O
+"
+"	O
+•Providing	O
+payroll	O
+support	O
+by	O
+providing	O
+data	O
+for	O
+LOP’s	O
+and	O
+timesheets.	O
+"
+"	O
+•Provide	O
+necessary	O
+HR	O
+Operational	O
+Support	O
+in	O
+areas	O
+of	O
+ESS	O
+and	O
+ER	O
+(i.e.	O
+leave	O
+"
+"	O
+approvals	O
+GP	O
+posting,	O
+employment	O
+certificate)	O
+and	O
+process	O
+request	O
+received	O
+through	O
+"
+"	O
+ESS.	O
+"
+"	O
+EDUCATION	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Arts	I-Degree
+in	I-Degree
+Psychology	I-Degree
+"
+"	O
+University	B-College Name
+of	I-College Name
+the	I-College Name
+Assumption	I-College Name
+"
+"	O
+TRAININGS	O
+"
+"	O
+Certified	O
+OD	O
+Intervention	O
+Professional	O
+"
+"	O
+October-,	O
+"
+"	O
+Passed	O
+with	O
+High	O
+Distinction	O
+"
+"	O
+Microsoft	O
+Excel	O
+Basic,	O
+intermediate,	O
+Advance	O
+"
+"	O
+February,	O
+"
+"	O
+Managing	O
+Employee	O
+and	O
+UAE	O
+Labour	O
+Law	O
+Updates	O
+"
+"	O
+March,	O
+"
+"	O
+Performance	O
+Management	O
+and	O
+coaching	O
+"
+"	O
+April,	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+Background	O
+"
+"	O
+BA	B-Degree
+English	I-Degree
+translation	I-Degree
+at	O
+Azad	B-College Name
+university	I-College Name
+of	I-College Name
+Arak	I-College Name
+(graduated	O
+in	O
+2005).	B-Graduation Year
+"
+"	O
+"
+"	O
+Job	O
+Records	O
+"
+"	O
+-CEO	O
+at	O
+BASTA	O
+SANAT	O
+SEPEHR	O
+about	O
+production	O
+of	O
+carton	O
+box	O
+(from	O
+2013.0	O
+up	O
+to	O
+now).	O
+"
+"	O
+-Sales	O
+Manager	O
+at	O
+KIAN	O
+CARTON	O
+KARAJ	O
+about	O
+production	O
+of	O
+3.0	O
+layer	O
+carton	O
+board	O
+(from2012	O
+to	O
+2013).	O
+"
+"	O
+-Marketing	O
+Manager	O
+at	O
+AZIM	O
+CARTON	O
+about	O
+production	O
+of	O
+3&5	O
+layer	O
+carton	O
+board	O
+(from2009	O
+to	O
+2012).	O
+"
+"	O
+-Purchasing	O
+Manager	O
+at	O
+NEGIN	O
+DERAKHSHAN	O
+SHAMS	O
+about	O
+production	O
+of	O
+3&5	O
+layer	O
+carton	O
+board	O
+(from	O
+"
+"	O
+2006.0	O
+to	O
+2009).	O
+"
+"	O
+-Business	O
+Manager	O
+at	O
+CARTON	O
+MAKHSUS	O
+about	O
+production	O
+of	O
+3,5&7	O
+layer	O
+(ALAMOUT	O
+SIGHT)	O
+carton	O
+"
+"	O
+board	O
+(from	O
+2005.0	O
+to	O
+2006).	O
+"
+"	O
+"
+"	O
+Abilities	O
+and	O
+Skills	O
+"
+"	O
+-Working	O
+with	O
+computer	O
+at	O
+upper	O
+intermediate	O
+level.	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATIONAL	O
+QUALIFICATION	O
+"
+"	O
+Currently	O
+Pursuing	O
+ACCA	O
+(IFRS)	O
+"
+"	O
+B	B-Degree
+Com	I-Degree
+commerce	I-Degree
+from	O
+Alagappa	B-College Name
+University,	I-College Name
+India	B-Location
+"
+"	O
+Completed	O
+Advanced	O
+English	O
+training	O
+program	O
+"
+"	O
+On-job	O
+trainings-Tally	O
+software	O
+"
+"	O
+"
+"	O
+PERSONAL	O
+DETAILS	O
+"
+"	O
+Date	O
+of	O
+Birth	O
+"
+"	O
+Linguistic	O
+Proficiency	O
+"
+"	O
+Marital	O
+Status	O
+"
+"	O
+Visa	O
+"
+"	O
+Preferred	O
+Location	O
+"
+"	O
+"
+"	O
+EDUCATIONAL	O
+QUALIFICATION	O
+"
+"	O
+Currently	O
+Pursuing	O
+ACCA	O
+(IFRS)	O
+"
+"	O
+B	B-Degree
+Com	I-Degree
+commerce	I-Degree
+from	O
+Alagappa	B-College Name
+University,	I-College Name
+India	B-Location
+"
+"	O
+Completed	O
+Advanced	O
+English	O
+training	O
+program	O
+"
+"	O
+On-job	O
+trainings-Tally	O
+software	O
+"
+"	O
+"
+"	O
+PERSONAL	O
+DETAILS	O
+"
+"	O
+Date	O
+of	O
+Birth	O
+"
+"	O
+Linguistic	O
+Proficiency	O
+"
+"	O
+Marital	O
+Status	O
+"
+"	O
+"
+"	O
+.	.
+Educational	O
+Qualification	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+DAE	O
+"
+"	O
+AutoCAD	O
+"
+"	O
+FSC	O
+"
+"	O
+Metric	O
+"
+"	O
+"
+"	O
+Diploma	B-Degree
+in	I-Degree
+Associate	I-Degree
+Engineer	I-Degree
+(Civil)	I-Degree
+From	O
+Government	B-College Name
+College	I-College Name
+of	I-College Name
+Technology	I-College Name
+Multan.	B-Location
+"
+"	O
+AutoCAD	B-Degree
+(Civil	I-Degree
+Draftsman)	I-Degree
+From	O
+Government	B-College Name
+College	I-College Name
+of	I-College Name
+Technology	I-College Name
+Multan.	B-Location
+"
+"	O
+Government	O
+College	O
+of	O
+Multan.	O
+"
+"	O
+Nokhaz	O
+Public	O
+High	O
+School	O
+Multan.	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Educational	O
+Background	O
+"
+"	O
+August	O
+2013.0	O
+–	O
+February	O
+2014.0	O
+"
+"	O
+"
+"	O
+June	O
+2005.0	O
+–	O
+October	O
+2010.0	O
+"
+"	O
+"
+"	O
+June	O
+2001.0	O
+–	O
+March	O
+2005.0	O
+"
+"	O
+"
+"	O
+June	O
+1995.0	O
+–	O
+March	O
+2001.0	O
+"
+"	O
+"
+"	O
+Nihongo	O
+Center	O
+Foundation,	O
+Inc.	O
+"
+"	O
+3/F	O
+Dominion	O
+Building,	O
+833.0	O
+A.	O
+Arnaiz	O
+Avenue,	O
+Makati	O
+City	O
+"
+"	O
+Elementary	O
+Japanese	O
+1.0	O
+"
+"	O
+Adamson	O
+University	O
+"
+"	O
+900.0	O
+San	O
+Marcelino	O
+St.,	O
+Ermita,	O
+Manila	O
+"
+"	O
+BS	B-Degree
+Electronics	I-Degree
+and	I-Degree
+Communications	I-Degree
+Engineering	I-Degree
+"
+"	O
+Saint	B-College Name
+Joseph	I-College Name
+Academy	I-College Name
+of	I-College Name
+Valenzuela	I-College Name
+"
+"	O
+1.0	O
+San	B-Location
+Felipe	I-Location
+St.,	I-Location
+Karuhatan,	I-Location
+Valenzuela	I-Location
+City	I-Location
+"
+"	O
+High	B-Degree
+School	I-Degree
+"
+"	O
+Saint	B-College Name
+Joseph	I-College Name
+Academy	I-College Name
+of	I-College Name
+Valenzuela	I-College Name
+"
+"	O
+1.0	O
+San	B-Location
+Felipe	I-Location
+St.,	I-Location
+Karuhatan,	I-Location
+Valenzuela	I-Location
+City	I-Location
+"
+"	O
+Elementary	O
+"
+"	O
+"
+"	O
+Field	O
+Trips,	O
+Seminars	O
+and	O
+Trainings	O
+Attended	O
+"
+"	O
+October	O
+14-15,	O
+2010.0	O
+"
+"	O
+October	O
+1,	O
+2010.0	O
+"
+"	O
+September	O
+25,	O
+2010.0	O
+"
+"	O
+August	O
+13,	O
+2010.0	O
+"
+"	O
+August	O
+4,	O
+2010.0	O
+"
+"	O
+July	O
+8,	O
+2010.0	O
+"
+"	O
+July	O
+2,	O
+2010.0	O
+"
+"	O
+September	O
+5,	O
+2009.0	O
+"
+"	O
+"
+"	O
+SMART	O
+Wireless	O
+Broadband	O
+Module	O
+2.0	O
+(VPN	O
+&	O
+IP	O
+Video	O
+Technology)	O
+"
+"	O
+Biomedical	O
+Engineering	O
+"
+"	O
+Verilog	O
+HDL	O
+and	O
+FPGA	O
+Design	O
+"
+"	O
+Wireless	O
+Communication;	O
+A	O
+Synopsis	O
+on	O
+the	O
+Up	O
+to	O
+Date	O
+Communication	O
+"
+"	O
+Tools	O
+at	O
+Present	O
+"
+"	O
+ABS-CBN	O
+Broadcasting	O
+Company	O
+"
+"	O
+International	O
+Broadcasting	O
+Bureau,	O
+Aviat	O
+Networks	O
+Philippines	O
+(Harris	O
+"
+"	O
+Stratex)	O
+and	O
+Dream	O
+Satellite	O
+TV	O
+Broadcasting	O
+Company	O
+"
+"	O
+Optical	O
+Fiber	O
+Technology	O
+"
+"	O
+Microcontroller	O
+Training	O
+Workshop	O
+Using	O
+Zilog	O
+Z8	O
+Encore	O
+Development	O
+"
+"	O
+Kit	O
+"
+"	O
+"
+"	O
+July	O
+11,	O
+2009.0	O
+"
+"	O
+January	O
+17,	O
+2009.0	O
+"
+"	O
+November	O
+15,	O
+2008.0	O
+"
+"	O
+"
+"	O
+Methodologies	O
+for	O
+Project	O
+Design	O
+"
+"	O
+Circuitry	O
+Making	O
+"
+"	O
+Microelectronics	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+TECHNICAL	O
+QUALIFICATIONS	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+DIPLOMA	B-Degree
+IN	I-Degree
+CIVIL	I-Degree
+ENGINEERING	I-Degree
+(GOVT.POLYTECHNIC	B-College Name
+KOTTAYAM-KERALA-INDIA)	I-College Name
+"
+"	O
+"
+"	O
+AMIE	O
+–SECTION	O
+A	O
+(ASSOCIATE	O
+MEMBERSHIP	O
+IN	O
+INSTITUTE	O
+OF	O
+ENGINEERS-INDIA)	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Qualification	O
+Diploma	B-Degree
+in	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+(Jodhpur	B-Location
+India)	I-Location
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Professional	O
+Experience	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+November	O
+2013.0	O
+to	O
+till	O
+date.	O
+(Jaipur	O
+Rajasthan)	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Working	O
+with	O
+the	O
+company	O
+Maharani	O
+Royal	O
+Developers.	O
+Company	O
+as	O
+client	O
+Civil	O
+Engineer	O
+where	O
+I	O
+have	O
+executed	O
+varies	O
+jobs	O
+such	O
+as	O
+builders	O
+and	O
+developer	O
+residential	O
+villas	O
+G+3	O
+projects.	O
+Planning	O
+the	O
+work	O
+schedule	O
+and	O
+handling	O
+the	O
+contractor	O
+and	O
+labors	O
+or	O
+site	O
+team	O
+including	O
+the	O
+site	O
+supervisor	O
+"
+"	O
+"
+"	O
+.	.
+"
+"	O
+.	.
+Education:	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+SYSTEMS	O
+PLUS	O
+COLLEGE	O
+FOUNDATION	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+BS	B-Degree
+NURSING	I-Degree
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+2008­2011	B-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+SAINT	B-College Name
+PETER’S	I-College Name
+COLLEGE	I-College Name
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+PRACTICAL	B-Degree
+NURSING	I-Degree
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+2005­2006	B-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Educational	O
+Background	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+Degree	I-Degree
+in	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+(B.SC)	I-Degree
+from	O
+Sarhad	B-College Name
+University	I-College Name
+of	I-College Name
+"
+"	I-College Name
+Science	I-College Name
+&	I-College Name
+Information	I-College Name
+Technology	I-College Name
+Peshawar,	B-Location
+Pakistan	I-Location
+"
+"	O
+"
+"	O
+Membership	O
+of	O
+professional	O
+Organizations	O
+"
+"	O
+"
+"	O
+.	O
+Society	O
+of	O
+Engineers	O
+UAE	O
+"
+"	O
+.	O
+Pakistan	O
+Engineering	O
+Council	O
+(PEC)	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+Graduate	O
+of	O
+Republic	B-College Name
+Central	I-College Name
+Colleges	I-College Name
+(Philippines)	B-Location
+"
+"	O
+Degree:	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+Computer	I-Degree
+Science	I-Degree
+"
+"	O
+1996.0	B-Graduation Year
+–	I-Graduation Year
+2000.0	I-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+EDUCATION	O
+"
+"	O
+Graduate	O
+of	O
+Republic	B-College Name
+Central	I-College Name
+Colleges	I-College Name
+(Philippines)	B-Location
+"
+"	O
+Degree:	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+Computer	I-Degree
+Science	I-Degree
+"
+"	O
+1996.0	B-Graduation Year
+–	I-Graduation Year
+2000.0	I-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+"
+"	O
+M.Sc	B-Degree
+Computer	I-Degree
+Science	I-Degree
+and	I-Degree
+Information	I-Degree
+Security	I-Degree
+—	O
+Indian	B-College Name
+Institute	I-College Name
+of	I-College Name
+"
+"	I-College Name
+Information	I-College Name
+Technology	I-College Name
+and	I-College Name
+Management	I-College Name
+-	O
+Kerala	B-Location
+(IIITM	O
+-	O
+K)	O
+"
+"	O
+(2015-2017)	B-Graduation Year
+"
+"	O
+B.Sc	B-Degree
+Computer	I-Degree
+Science	I-Degree
+—	O
+Nehru	B-College Name
+Arts	I-College Name
+and	I-College Name
+Science	I-College Name
+College,	I-College Name
+"
+"	O
+Coimbatore,	B-Location
+(2012-2015)	B-Graduation Year
+"
+"	O
+Higher	B-Degree
+Secondary	I-Degree
+(Grade	I-Degree
+12)	I-Degree
+—	O
+Sree	B-College Name
+Buddha	I-College Name
+Central	I-College Name
+School,	I-College Name
+"
+"	O
+Karunagappally,	B-Location
+(2012)	B-Graduation Year
+"
+"	O
+Secondary	B-Degree
+(Grade	I-Degree
+10)	I-Degree
+—	O
+Sree	B-College Name
+Buddha	I-College Name
+Central	I-College Name
+School,	I-College Name
+Karunagappally,	B-Location
+"
+"	O
+(2010)	B-Graduation Year
+"
+"	O
+"
+"	O
+.	.
+Education:	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+of	I-Degree
+Mechanical	I-Degree
+Engineering	I-Degree
+(BSME)	I-Degree
+/	O
+Alexandria	B-College Name
+University	I-College Name
+-	O
+PMI	O
+Certified	O
+#PMP	O
+"
+"	O
+"
+"	O
+Extensive	O
+experience	O
+/knowledge	O
+in	O
+civil	O
+work	O
+execution	O
+,design	O
+preparation	O
+&development	O
+:	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+4.0	O
+|	O
+3.0	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+QUALIFICATIONS/	O
+"
+"	O
+"
+"	O
+PROFESSIONAL	O
+1-Member	O
+Royal	O
+Institution	O
+of	O
+Chartered	O
+Surveyors	O
+(MRICS)-Chartered	O
+Quantity	O
+Surveyor	O
+"
+"	O
+"
+"	O
+2-Fellow	O
+Chartered	O
+Institute	O
+of	O
+Building	O
+(FCIOB)	O
+"
+"	O
+"
+"	O
+3-Pr.QS,	O
+PMAQS	O
+(Professionally	O
+Registered	O
+with	O
+Association	O
+of	O
+South	O
+African	O
+Quantity	O
+Surveyors)	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Professional	O
+&	O
+Academic	O
+Qualifications:	O
+"
+"	O
+	O
+Chartered	B-Degree
+Accountant	I-Degree
+(C.A.)	I-Degree
+(2008)	B-Graduation Year
+"
+"	O
+	O
+Masters	B-Degree
+in	I-Degree
+Business	I-Degree
+Finance	I-Degree
+(M.B.F)	I-Degree
+(I.C.A.I)	B-College Name
+(2012)*	B-Graduation Year
+"
+"	O
+	O
+Post	B-Degree
+Graduate	I-Degree
+in	I-Degree
+Securities	I-Degree
+Law	I-Degree
+(PG	B-College Name
+(Sec	I-College Name
+Law))	I-College Name
+(2008)	B-Graduation Year
+"
+"	O
+	O
+Bachelor	B-Degree
+of	I-Degree
+Law	I-Degree
+(L.L.B)	I-Degree
+(1999)	B-Graduation Year
+"
+"	O
+	O
+Bachelor	B-Degree
+of	I-Degree
+Commerce	I-Degree
+(B.com)	I-Degree
+(1993)	B-Graduation Year
+"
+"	O
+	O
+NCFM	O
+Certifications	O
+(Equity	O
+/Debt/	O
+Derivatives/Currencies/Commodities/Mutual	O
+Fund/Insurance)	O
+"
+"	O
+Member	O
+&	O
+Alumnus	O
+of	O
+Professional	O
+&	O
+Academic	O
+Bodies:	O
+"
+"	O
+	O
+Member	O
+of	O
+the	O
+Institute	O
+of	O
+Chartered	O
+Accountants	O
+of	O
+India	O
+(I.C.A.I)	O
+"
+"	O
+	O
+Member	O
+of	O
+the	O
+Bar	O
+Council	O
+of	O
+India	O
+(M&G)	O
+(B.C.I)	O
+"
+"	O
+	O
+Alumnus	O
+of	O
+the	O
+Institute	O
+of	O
+Chartered	O
+Accountants	O
+of	O
+India	O
+(I.C.A.I)	O
+"
+"	O
+	O
+Alumnus	O
+of	O
+Government	O
+Law	O
+College	O
+&	O
+JC	O
+Law	O
+College,	O
+Mumbai	O
+(India)	O
+"
+"	O
+	O
+Alumnus	O
+of	O
+N.M.	O
+College	O
+of	O
+Commerce	O
+&Economics,	O
+Mumbai	O
+(India)	O
+"
+"	O
+Visiting	O
+faculty	O
+/Exec	O
+Committee	O
+/Trainer/	O
+Speaker	O
+Assignments	O
+Held	O
+at	O
+Professional	O
+&	O
+Academic	O
+Forums	O
+"
+"	O
+	O
+ITM	O
+Institute	O
+of	O
+Financial	O
+Markets,	O
+New	O
+Mumbai,	O
+India	O
+"
+"	O
+	O
+Association	O
+of	O
+National	O
+Exchanges	O
+Member	O
+of	O
+India	O
+(A.N.M.I)	O
+(WIRC),Mumbai,	O
+India	O
+"
+"	O
+	O
+Institute	O
+of	O
+Chartered	O
+Accountants	O
+of	O
+India	O
+(I.C.A.I)	O
+(WIRC)	O
+Study	O
+Circles	O
+"
+"	O
+	O
+Conducted	O
+/	O
+Attended	O
+Programmes	O
+at	O
+BSE	O
+Training	O
+Institute	O
+/NSE	O
+Training	O
+Centre	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATIONAL	O
+QUALIFICATIONS:	O
+"
+"	O
+Qualification	O
+Institution	O
+"
+"	O
+B.E	B-Degree
+Computer	I-Degree
+"
+"	I-Degree
+Science	I-Degree
+"
+"	O
+HSC	O
+"
+"	O
+"
+"	O
+SSLC	O
+"
+"	O
+"
+"	O
+Board/University	O
+Year	O
+of	O
+Percentage/CGPA	O
+"
+"	O
+Passing	O
+"
+"	O
+"
+"	O
+Vel	B-College Name
+Tech	I-College Name
+High	I-College Name
+Tech	I-College Name
+Dr.	I-College Name
+RR	I-College Name
+"
+"	I-College Name
+2016.0	I-College Name
+"
+"	I-College Name
+Dr.SR	I-College Name
+Engineering	I-College Name
+College,	I-College Name
+Anna	O
+University	O
+"
+"	O
+Chennai	B-Location
+"
+"	O
+Good	B-College Name
+"
+"	I-College Name
+Shepherd	I-College Name
+"
+"	O
+Tamil	B-Location
+Nadu	I-Location
+State	I-Location
+"
+"	O
+2012.0	B-Graduation Year
+"
+"	O
+Matriculation	O
+HSS,	O
+"
+"	O
+Board	O
+"
+"	O
+Marthandam	B-Degree
+"
+"	O
+Good	B-College Name
+"
+"	I-College Name
+Shepherd	I-College Name
+"
+"	I-College Name
+Matriculation	O
+HSS,	O
+"
+"	O
+Marthandam	B-Location
+"
+"	O
+"
+"	O
+Matriculation	O
+"
+"	O
+Board	O
+"
+"	O
+"
+"	O
+2010.0	B-Graduation Year
+"
+"	O
+"
+"	O
+71.8	O
+"
+"	O
+"
+"	O
+85.8%	O
+"
+"	O
+"
+"	O
+77%	O
+"
+"	O
+"
+"	O
+INNOVATION	O
+DETAILS:	O
+"
+"	O
+Proposed	O
+an	O
+idea	O
+on	O
+detecting	O
+the	O
+amount	O
+of	O
+Oxytocin	O
+in	O
+fruits	O
+and	O
+vegetables	O
+using	O
+"
+"	O
+Wireless	O
+Sensors	O
+which	O
+was	O
+published	O
+in	O
+the	O
+Indian	O
+Journal	O
+of	O
+Science	O
+and	O
+Technology.	O
+"
+"	O
+Reference	O
+:(	O
+Vol	O
+9(16),	O
+10.17485/ijst/2016/v9i16/92211,	O
+April	O
+2016)	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+Industrial	I-Degree
+Technology	I-Degree
+"
+"	O
+Bulacan	B-College Name
+State	I-College Name
+Universuty	I-College Name
+"
+"	O
+April	B-Graduation Year
+1996.0	I-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+"
+"	O
+Sri	B-College Name
+Nandhanam	I-College Name
+Polytechnic	I-College Name
+College,Anna	I-College Name
+University,	I-College Name
+"
+"	O
+Tiruppattur—	B-Location
+D	B-Degree
+"
+"	I-Degree
+​	I-Degree
+iploma	I-Degree
+in	I-Degree
+Computer	I-Degree
+Science	I-Degree
+Engg	I-Degree
+"
+"	O
+JULY	B-Graduation Year
+2010.0	I-Graduation Year
+-	I-Graduation Year
+MARCH	I-Graduation Year
+2014.0	I-Graduation Year
+"
+"	O
+"
+"	O
+Sri	B-College Name
+Vivekandha	I-College Name
+Higher	I-College Name
+Schondary	I-College Name
+School	I-College Name
+,	O
+P	O
+"
+"	O
+​	O
+alemad—	O
+"
+"	O
+Higher	B-Degree
+Secondary	I-Degree
+Education	I-Degree
+(State)	O
+"
+"	O
+JUNE	B-Graduation Year
+2008-	I-Graduation Year
+MARCH	I-Graduation Year
+2010.0	I-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Academic	O
+Background	O
+"
+"	O
+.	O
+MBA,	B-Degree
+AUC/American	B-College Name
+University	I-College Name
+in	O
+Cairo.	B-Location
+"
+"	O
+<	O
+Postgraduate	B-Degree
+degree	I-Degree
+in	I-Degree
+Hospitality	I-Degree
+Real	I-Degree
+Estate	I-Degree
+Development	I-Degree
+&	I-Degree
+Asset	I-Degree
+"
+"	I-Degree
+Management;	I-Degree
+The	B-College Name
+Chaplin	I-College Name
+School	I-College Name
+for	I-College Name
+Hospitality	I-College Name
+&	I-College Name
+Tourism	I-College Name
+Management;	I-College Name
+"
+"	O
+FIU/Florida	O
+International	O
+University,	O
+Biscayne	B-Location
+Bay	I-Location
+Campus,	I-Location
+North	I-Location
+Miami,	I-Location
+"
+"	O
+Florida;	O
+Sponsored	O
+by	O
+the	O
+Fairmont	O
+Hotels	O
+Inc.,	O
+FL,	O
+USA.	O
+"
+"	O
+"
+"	O
+"
+"	O
+<	O
+One-year	O
+Management	O
+Training	O
+Course,	O
+Taskforce	O
+Major-	O
+"
+"	O
+Preopening/Opening/Launching	O
+stages,	O
+Fairmont	O
+Hotels	O
+International	O
+Inc.,	O
+"
+"	O
+Florida,	O
+USA.	O
+"
+"	O
+<	O
+Two-years	O
+study	O
+Diploma	O
+in	O
+Hospitality	O
+Real	O
+Estate	O
+Development	O
+&	O
+"
+"	O
+Management,	O
+PMP,	O
+AUC.	O
+"
+"	O
+.	O
+Bachelor	O
+degree	O
+in	O
+Business	O
+Administration;	O
+Marketing	O
+Major;	O
+Faculty	O
+of	O
+"
+"	O
+Business	O
+Admin.,	O
+Economics	O
+&	O
+Foreign	O
+Trade,	O
+Cairo,	O
+Egypt.	O
+"
+"	O
+.	O
+High	O
+School	O
+Diploma,	O
+DSE/German	O
+School	O
+in	O
+Cairo.	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+Qualification	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Technology	I-Degree
+Electrical	I-Degree
+2010.0	B-Graduation Year
+New	B-College Name
+Port	I-College Name
+University,	I-College Name
+Karachi,	B-Location
+Pakistan.	I-Location
+"
+"	O
+"
+"	O
+Diploma	B-Degree
+of	I-Degree
+Power	I-Degree
+Technology	I-Degree
+1991.0	B-Graduation Year
+Govt	B-College Name
+.College	I-College Name
+of	I-College Name
+Technology,	I-College Name
+Karachi,	B-Location
+Pakistan.	I-Location
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+KEY	O
+QUALIFICATIONS	O
+"
+"	O
+●	O
+iOS	O
+Developer	O
+​working	O
+with	O
+iOS	O
+SDK’s,	O
+CocoaTouch,	O
+UIKit,	O
+Xcode,	O
+Interface	O
+Builder,	O
+Instruments,	O
+and	O
+"
+"	O
+Git	O
+on	O
+a	O
+daily	O
+basis.	O
+"
+"	O
+●	O
+Good	O
+knowledge	O
+with	O
+advanced	O
+iOS	O
+technologies	O
+including	O
+Core	O
+Location,	O
+MapKit,	O
+GoogleMap,	O
+and	O
+"
+"	O
+Auto	O
+Layout.	O
+"
+"	O
+●	O
+Strong	O
+self-learner	O
+with	O
+a	O
+desire	O
+to	O
+stay	O
+highly	O
+informed	O
+on	O
+best	O
+practices	O
+and	O
+latest	O
+developments	O
+to	O
+"
+"	O
+Apple’s	O
+iOS	O
+mobile	O
+platform.	O
+"
+"	O
+●	O
+Continuously	O
+focused	O
+on	O
+providing	O
+an	O
+excellent	O
+user	O
+experience	O
+via	O
+clean,	O
+maintainable,	O
+performing	O
+code.	O
+"
+"	O
+●	O
+Professional,	O
+personable,	O
+and	O
+flexible	O
+while	O
+working	O
+to	O
+achieve	O
+objectives.	O
+"
+"	O
+"
+"	O
+INDEPENDENT	O
+iOS	O
+DEVELOPER	O
+"
+"	O
+●	O
+Designation:	O
+​iOS​	O
+​Developer	O
+"
+"	O
+●	O
+2.5	O
+years	O
+of	O
+experience	O
+in	O
+​iOS​	O
+mobile	O
+application	O
+development.	O
+"
+"	O
+●	O
+Developed	O
+native	O
+based	O
+iPhone	O
+and	O
+iPad	O
+applications	O
+using	O
+Swift,	O
+XCode,	O
+iPhone	O
+SDK,	O
+and	O
+Cocoa	O
+Touch	O
+"
+"	O
+framework.	O
+"
+"	O
+​ACADAMIC	O
+DETAILES	O
+​*	O
+"
+"	O
+April	B-Graduation Year
+–	I-Graduation Year
+2017.0	I-Graduation Year
+Hindusthan	B-College Name
+Institute	I-College Name
+Of	I-College Name
+Technology	I-College Name
+,	O
+Coimbatore	B-Location
+,	I-Location
+"
+"	I-Location
+Tamilnadu.	I-Location
+"
+"	O
+Major:	O
+BE	B-Degree
+–	I-Degree
+Computer	I-Degree
+Science	I-Degree
+And	I-Degree
+Engineering(60%)	I-Degree
+"
+"	O
+"
+"	O
+​Declaration​:	O
+"
+"	O
+I	O
+hereby	O
+declare	O
+that	O
+the	O
+information	O
+furnished	O
+above	O
+are	O
+true	O
+and	O
+correct	O
+to	O
+the	O
+best	O
+of	O
+my	O
+"
+"	O
+knowledge	O
+and	O
+belief.	O
+"
+"	O
+Place	O
+:	O
+"
+"	O
+Date	O
+"
+"	O
+"
+"	O
+:	O
+"
+"	O
+"
+"	O
+Yours	O
+Faithfully,	O
+"
+"	O
+VIJAY	O
+K	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+:	O
+"
+"	O
+EDUCATION	O
+"
+"	O
+"
+"	O
+Bachelor's	B-Degree
+degree,	I-Degree
+Hotel,	I-Degree
+Restaurant	I-Degree
+and	I-Degree
+Institution	I-Degree
+Management	I-Degree
+"
+"	O
+at	O
+De	B-College Name
+La	I-College Name
+Salle	I-College Name
+College	I-College Name
+of	I-College Name
+Saint	I-College Name
+Benilde	I-College Name
+"
+"	O
+3/7	O
+"
+"	O
+"
+"	O
+Location:	O
+Manila	B-Location
+Philippines	I-Location
+"
+"	O
+April	B-Graduation Year
+2008.0	I-Graduation Year
+"
+"	O
+Dean's	O
+Lister	O
+"
+"	O
+SY	O
+2006-2007	O
+"
+"	O
+1st	O
+Honor	O
+-	O
+3rd	O
+Trimester	O
+"
+"	O
+2nd	O
+Honor	O
+-	O
+2nd	O
+Trimester	O
+"
+"	O
+2nd	O
+Honor	O
+-	O
+1st	O
+Trimester	O
+"
+"	O
+SY	O
+2005-2006	O
+"
+"	O
+2nd	O
+Honor	O
+-	O
+3rd	O
+Trimester	O
+"
+"	O
+SY	O
+2004-2005	O
+"
+"	O
+2nd	O
+Honor	O
+-	O
+1st	O
+Trimester	O
+"
+"	O
+"
+"	O
+Diploma,	B-Degree
+Hospitality	I-Degree
+Management	I-Degree
+"
+"	O
+at	O
+The	B-College Name
+Emirates	I-College Name
+Academy	I-College Name
+"
+"	O
+Location:	O
+Dubai,	B-Location
+United	I-Location
+Arab	I-Location
+Emirates	I-Location
+"
+"	O
+March	B-Graduation Year
+2008.0	I-Graduation Year
+"
+"	O
+"
+"	O
+EDUCATIONAL	O
+"
+"	O
+BACKGROUND	O
+"
+"	O
+Certificate	O
+in	O
+Hospitality	O
+"
+"	O
+Management	O
+"
+"	O
+The	O
+Emirates	O
+Academy	O
+"
+"	O
+(In	O
+academic	O
+association	O
+with	O
+"
+"	O
+Ecole	O
+Hôtelière	O
+de	O
+Lausanne)	O
+"
+"	O
+Dubai,	O
+United	O
+Arab	O
+Emirates	O
+"
+"	O
+September	O
+2007.0	O
+-	O
+March	O
+2008.0	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+"
+"	I-Degree
+5/7	I-Degree
+"
+"	I-Degree
+"
+"	I-Degree
+Hotel,	I-Degree
+Restaurant	I-Degree
+and	I-Degree
+"
+"	I-Degree
+Institutional	I-Degree
+"
+"	I-Degree
+Management	I-Degree
+"
+"	O
+De	B-College Name
+La	I-College Name
+Salle	I-College Name
+-	I-College Name
+College	I-College Name
+of	I-College Name
+St.	I-College Name
+"
+"	I-College Name
+Benilde	I-College Name
+"
+"	O
+Manila,	B-Location
+Philippines	I-Location
+"
+"	O
+May	B-Graduation Year
+2004.0	I-Graduation Year
+-	I-Graduation Year
+April	I-Graduation Year
+2008.0	I-Graduation Year
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+Master	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+Analytics	I-Degree
+"
+"	O
+University	B-College Name
+of	I-College Name
+San	I-College Name
+Francisco	I-College Name
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Arts	I-Degree
+in	I-Degree
+Mathematics	I-Degree
+"
+"	O
+University	B-College Name
+of	I-College Name
+California,	I-College Name
+Santa	I-College Name
+Cruz	I-College Name
+"
+"	O
+Overall	O
+GPA:	O
+3.5	O
+"
+"	O
+"
+"	O
+Expected	O
+June	B-Graduation Year
+2015.0	I-Graduation Year
+"
+"	I-Graduation Year
+"
+"	I-Graduation Year
+July	I-Graduation Year
+2012.0	I-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Educational	O
+Qualifications	O
+"
+"	O
+"
+"	O
+Course	O
+"
+"	O
+"
+"	O
+Institution	O
+"
+"	O
+"
+"	O
+Year	O
+of	O
+passing	O
+"
+"	O
+"
+"	O
+%	O
+of	O
+Marks	O
+"
+"	O
+"
+"	O
+SSLC	B-Degree
+"
+"	O
+"
+"	O
+Government	B-College Name
+boys	I-College Name
+Higher	I-College Name
+secondary	I-College Name
+School	I-College Name
+Pattukkottai	B-Location
+"
+"	O
+"
+"	O
+2000.0	B-Graduation Year
+"
+"	O
+"
+"	O
+81.6	O
+"
+"	O
+"
+"	O
+HSC	B-Degree
+"
+"	O
+"
+"	O
+Government	B-College Name
+boys	I-College Name
+Higher	I-College Name
+secondary	I-College Name
+School	I-College Name
+Pattukkottai	B-Location
+"
+"	O
+"
+"	O
+2002.0	B-Graduation Year
+"
+"	O
+"
+"	O
+75.4	O
+"
+"	O
+"
+"	O
+DCE	B-Degree
+"
+"	I-Degree
+"
+"	I-Degree
+(Diploma	I-Degree
+in	I-Degree
+civil	I-Degree
+engineering)	I-Degree
+"
+"	O
+"
+"	O
+Government	B-College Name
+Polytechnic	I-College Name
+College,	I-College Name
+Arantahangi	B-Location
+"
+"	O
+"
+"	O
+2006.0	B-Graduation Year
+"
+"	O
+"
+"	O
+62.4	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+QUALIFICATION	O
+:	O
+B.E	B-Degree
+(Electrical)	I-Degree
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+TOTAL	O
+EXPERIENCE	O
+:	O
+22YEARS	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+GULF	O
+EXPERIENCE	O
+:	O
+20.0	O
+YEARS	O
+IN	O
+U.A.E.	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+DATE	O
+OF	O
+BIRTH	O
+:	O
+30.0	O
+October	O
+1968.0	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+ACADEMIA	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+C.A.	B-Degree
+from	O
+Institute	B-College Name
+Of	I-College Name
+Chartered	I-College Name
+Accountants	I-College Name
+Of	I-College Name
+India	I-College Name
+in	O
+Nov.	O
+1989.0	B-Graduation Year
+(Scored	O
+50.0	O
+out	O
+of	O
+50.0	O
+in	O
+the	O
+Company	O
+Account	O
+Paper	O
+of	O
+CA	O
+Intermediate	O
+examination)	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+B.	B-Degree
+Com.	I-Degree
+from	O
+Devi	B-College Name
+Ahilya	I-College Name
+Vishwavidhyalaya	I-College Name
+Indore,	I-College Name
+in	O
+1984.0	B-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+M.	B-Degree
+Com.	I-Degree
+from	O
+Devi	B-College Name
+Ahilya	I-College Name
+Vishwavidhyalaya	I-College Name
+Indore,	I-College Name
+in	O
+1986.0	B-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Completed	O
+1st	O
+year	O
+of	O
+Certificate	O
+of	O
+Proficiency	O
+in	O
+Russian	O
+Language	O
+from	O
+Devi	O
+Ahilya	O
+Vishwavidhyalaya	O
+Indore	O
+in	O
+1984.0	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Editor	O
+of	O
+News	O
+letter	O
+of	O
+Indore	O
+Branch	O
+of	O
+ICAI	O
+for	O
+a	O
+period	O
+of	O
+one	O
+year	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+in	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+(B.E)	I-Degree
+(2007-2010)	B-Graduation Year
+"
+"	O
+"
+"	O
+Passed	O
+in	O
+1ST	O
+Division	O
+"
+"	O
+"
+"	O
+University-	O
+Mehran	B-College Name
+University	I-College Name
+of	I-College Name
+Engineering	I-College Name
+&	I-College Name
+Technology	I-College Name
+Jamshoro,	B-Location
+Pakistan	I-Location
+"
+"	O
+"
+"	O
+ISO	O
+9001-2000	O
+Certified	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education:	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+of	I-Degree
+Mechanical	I-Degree
+Engineering	I-Degree
+(BSME)	I-Degree
+/	O
+Alexandria	B-College Name
+University	I-College Name
+-	O
+PMI	O
+Certified	O
+#PMP	O
+"
+"	O
+"
+"	O
+Extensive	O
+experience	O
+/knowledge	O
+in	O
+civil	O
+work	O
+execution	O
+,design	O
+preparation	O
+&development	O
+:	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+1.0	O
+|	O
+3.0	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education:	O
+"
+"	O
+"
+"	O
+"
+"	O
+College	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+Tourism	I-Degree
+Management	I-Degree
+"
+"	O
+"
+"	O
+Centro	B-College Name
+Escolar	I-College Name
+University	I-College Name
+"
+"	O
+"
+"	O
+Mendiola,	B-Location
+Manila	I-Location
+"
+"	O
+"
+"	O
+2011.0	B-Graduation Year
+–	I-Graduation Year
+2015.0	I-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Associate	O
+in	O
+Computer	O
+Technology	O
+"
+"	O
+"
+"	O
+University	O
+of	O
+the	O
+Philippines	O
+"
+"	O
+"
+"	O
+Quezon	O
+City	O
+"
+"	O
+"
+"	O
+Qualifications:	O
+"
+"	O
+"
+"	O
+Excellent	O
+computer	O
+skills	O
+–	O
+applications	O
+related	O
+to	O
+Microsoft	O
+Office,	O
+Adobe	O
+Applications,	O
+Solid	O
+Edge	O
+or	O
+the	O
+internet.	O
+"
+"	O
+"
+"	O
+	O
+Photographer	O
+&	O
+Videographer	O
+"
+"	O
+"
+"	O
+Fluency	O
+in	O
+English	O
+both	O
+oral	O
+and	O
+written	O
+"
+"	O
+Excellent	O
+communication	O
+skills	O
+(English	O
+&	O
+Arabic)	O
+"
+"	O
+"
+"	O
+Typing	O
+Speed	O
+of	O
+60.0	O
+WPM	O
+"
+"	O
+"
+"	O
+Highly	O
+dedicated	O
+and	O
+willing	O
+to	O
+learn	O
+with	O
+strong	O
+multimedia	O
+skills,	O
+goal	O
+oriented	O
+and	O
+high	O
+initiative	O
+skills.	O
+"
+"	O
+"
+"	O
+Desirous	O
+about	O
+achieving	O
+a	O
+challenging	O
+position	O
+that	O
+allows	O
+meaningful	O
+and	O
+positive	O
+contribution	O
+to	O
+the	O
+development	O
+of	O
+the	O
+company.	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+:	O
+"
+"	O
+"
+"	O
+Dubai,	O
+United	O
+Arab	O
+Emirates	O
+"
+"	O
+Bachelor's	B-Degree
+degree,	I-Degree
+Psychology	I-Degree
+"
+"	O
+"
+"	O
+EDUCATION	O
+"
+"	O
+"
+"	O
+Bachelor's	B-Degree
+degree,	I-Degree
+Psychology	I-Degree
+"
+"	O
+at	O
+University	B-College Name
+of	I-College Name
+San	I-College Name
+Jose	I-College Name
+-	O
+Recoletos	O
+"
+"	O
+Location:	O
+Philippines	B-Location
+"
+"	O
+January	B-Graduation Year
+2017.0	I-Graduation Year
+"
+"	O
+Grade	O
+:	O
+4.6	O
+out	O
+of	O
+5.0	O
+"
+"	O
+"
+"	O
+High	B-Degree
+school	I-Degree
+or	I-Degree
+equivalent,	I-Degree
+Science	I-Degree
+and	I-Degree
+Technology	I-Degree
+"
+"	O
+at	O
+Cebu	B-College Name
+City	I-College Name
+National	I-College Name
+Science	I-College Name
+High	I-College Name
+School	I-College Name
+"
+"	O
+Location:	O
+Philippines	B-Location
+"
+"	O
+March	B-Graduation Year
+2012.0	I-Graduation Year
+"
+"	O
+Grade	O
+:	O
+91.0	O
+out	O
+of	O
+100.0	O
+"
+"	O
+"
+"	O
+SPECIALTIES	O
+"
+"	O
+"
+"	O
+Administration	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Human	O
+Resources	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Customer	O
+Service	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Writing	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Social	O
+Media	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+2.0	O
+"
+"	O
+"
+"	O
+4/7	O
+"
+"	O
+"
+"	O
+EDUCATION	O
+o	O
+Avaza	O
+o	O
+Percolate	O
+"
+"	O
+"
+"	O
+Dean's	O
+Lister	O
+(	O
+-)	O
+Teknoy	O
+Speaks	O
+Debate	O
+Competition	O
+Semi-finalist	O
+"
+"	O
+For	O
+students	O
+who	O
+have	O
+a	O
+GPA	O
+of	O
+4.4	O
+and	O
+above]	O
+()	O
+"
+"	O
+Making	O
+it	O
+to	O
+the	O
+semi-finals	O
+of	O
+the	O
+interdepartmental	O
+"
+"	O
+Leadership	O
+Award	O
+()	O
+parliamentary	O
+debate	O
+competition.	O
+"
+"	O
+For	O
+performing	O
+an	O
+excellent	O
+job	O
+as	O
+a	O
+student	O
+leader	O
+"
+"	O
+Leadership	O
+Award	O
+()	O
+"
+"	O
+Most	O
+Outstanding	O
+Peer	O
+Mentor	O
+()	O
+Always	O
+taking	O
+initiative	O
+and	O
+leading	O
+group	O
+and	O
+"
+"	O
+For	O
+having	O
+the	O
+most	O
+number	O
+of	O
+hours	O
+rendered	O
+into	O
+classroom	O
+activities.	O
+"
+"	O
+mentoring	O
+and	O
+teaching	O
+her	O
+peers	O
+"
+"	O
+"
+"	O
+Bachelor	O
+of	O
+Science	O
+in	O
+Psychology	O
+"
+"	O
+"
+"	O
+University	O
+of	O
+San	O
+Jose	O
+-	O
+Recoletos/	O
+-/	O
+(Philippines)	O
+"
+"	O
+GPA	O
+4.6	O
+(5	O
+point	O
+GPA)	O
+"
+"	O
+o	O
+"
+"	O
+"
+"	O
+7/7	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+:	O
+"
+"	O
+Experience:	O
+"
+"	O
+"
+"	O
+United	O
+Arab	O
+Emirates	O
+"
+"	O
+Bachelor's	B-Degree
+degree,	I-Degree
+Nursing	I-Degree
+"
+"	O
+10.0	O
+Years,	O
+4.0	O
+Months	O
+"
+"	O
+"
+"	O
+CONTACT	O
+"
+"	O
+Location:	O
+"
+"	O
+"
+"	O
+United	B-Location
+Arab	I-Location
+Emirates	I-Location
+"
+"	O
+"
+"	O
+Name:	O
+"
+"	O
+"
+"	O
+Kathleen	O
+June	O
+Villanueva	O
+"
+"	O
+EDUCATION	O
+"
+"	O
+"
+"	O
+Bachelor's	B-Degree
+degree,	I-Degree
+Nursing	I-Degree
+"
+"	O
+at	O
+Arellano	B-College Name
+University	I-College Name
+"
+"	O
+Location:	O
+Philippines	B-Location
+"
+"	O
+March	B-Graduation Year
+2010.0	I-Graduation Year
+"
+"	O
+"
+"	O
+SKILLS	O
+"
+"	O
+Recruitment	O
+"
+"	O
+"
+"	O
+Onboarding	O
+"
+"	O
+"
+"	O
+Level:	O
+(Expert)	O
+"
+"	O
+"
+"	O
+Level:	O
+(Expert)	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+&	O
+TRAINING	O
+"
+"	O
+"
+"	O
+FROM	O
+2002.0	O
+TO	O
+2014.0	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+FROM	O
+1997.0	O
+TO	O
+2002.0	O
+"
+"	O
+"
+"	O
+Courses	O
+completed	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+The	O
+American	O
+university	O
+in	O
+Cairo,	O
+Cairo,	O
+Egypt	O
+2007.0	O
+"
+"	O
+"
+"	O
+Certificate	O
+/	O
+diploma,	O
+Project	O
+Budgeting	O
+and	O
+Financial	O
+Control	O
+"
+"	O
+"
+"	O
+Certificate	O
+/	O
+diploma,	O
+Project	O
+Bids	O
+and	O
+Contracts	O
+"
+"	O
+"
+"	O
+Certificate	O
+/	O
+diploma,	O
+Advanced	O
+Primavera	O
+Project	O
+Management	O
+"
+"	O
+"
+"	O
+Certificate	O
+/	O
+diploma,	O
+Management	O
+Of	O
+Project	O
+Resource	O
+"
+"	O
+"
+"	O
+Certificate	O
+/	O
+diploma,	O
+Primavera	O
+project	O
+management	O
+3.1	O
+"
+"	O
+"
+"	O
+OMM	O
+Business	O
+solution	O
+,	O
+management	O
+consultation,	O
+Cairo,	O
+Egypt	O
+"
+"	O
+"
+"	O
+Certificate	O
+/	O
+diploma,	O
+Quality,	O
+Health,	O
+Safety	O
+Management	O
+(ISO	O
+9001:2008,	O
+OHSAS	O
+18001:2007,	O
+ISO	O
+10013:2001,	O
+ISO	O
+19011:2002	O
+)	O
+"
+"	O
+"
+"	O
+PMI	O
+MENA	O
+Chapter,	O
+Cairo,	O
+Egypt	O
+"
+"	O
+"
+"	O
+High	O
+school	O
+or	O
+equivalent,	O
+PMP	O
+SESSIONS.	O
+"
+"	O
+"
+"	O
+Cairo	B-College Name
+university	I-College Name
+Faculty	I-College Name
+OF	I-College Name
+Engineering,	I-College Name
+Egypt	B-Location
+2002.0	B-Graduation Year
+"
+"	O
+"
+"	O
+B.Sc.	B-Degree
+Civil	I-Degree
+Engineering	I-Degree
+"
+"	O
+"
+"	O
+Graduation	O
+Research	O
+:	O
+Concrete	O
+Structure	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+"
+"	O
+The	B-College Name
+University	I-College Name
+of	I-College Name
+Nottingham	I-College Name
+-	O
+MSc	B-Degree
+International	I-Degree
+Business	I-Degree
+Management	I-Degree
+"
+"	O
+2004.0	B-Graduation Year
+-	I-Graduation Year
+2006.0	I-Graduation Year
+UNiM,	B-Location
+Malaysia	I-Location
+"
+"	O
+University	B-College Name
+of	I-College Name
+Kerala	I-College Name
+-	O
+B.Com,	B-Degree
+First	I-Degree
+Class	I-Degree
+"
+"	O
+2000.0	B-Graduation Year
+-	I-Graduation Year
+2003.0	I-Graduation Year
+Mar	B-College Name
+Ivanios	I-College Name
+College,	I-College Name
+Trivandrum	I-College Name
+"
+"	O
+Kendriya	B-College Name
+Vidyalaya	I-College Name
+-	O
+AISSCE	B-Degree
+"
+"	O
+1988.0	B-Graduation Year
+-	I-Graduation Year
+2000.0	I-Graduation Year
+Pattom,	B-Location
+Trivandrum	I-Location
+"
+"	O
+"
+"	O
+Certifications	O
+"
+"	O
+●	O
+"
+"	O
+●	O
+"
+"	O
+●	O
+"
+"	O
+●	O
+"
+"	O
+"
+"	O
+Business	O
+English	O
+Certificate	O
+2.0	O
+-	O
+University	O
+of	O
+Cambridge	O
+"
+"	O
+Digital	O
+Six	O
+Sigma	O
+Green	O
+Belt	O
+-	O
+Motorola	O
+India	O
+Pvt	O
+Ltd	O
+"
+"	O
+ValueVision	O
+Certified	O
+-	O
+ValueSelling	O
+Associates	O
+"
+"	O
+Speechcraft	O
+Program	O
+-	O
+Toastmasters	O
+International	O
+"
+"	O
+------------	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+:	O
+"
+"	O
+EDUCATION	O
+"
+"	O
+"
+"	O
+Bachelor's	B-Degree
+degree,	I-Degree
+Information	I-Degree
+Technology	I-Degree
+"
+"	O
+at	O
+Holy	B-College Name
+Cross	I-College Name
+of	I-College Name
+Davao	I-College Name
+College,	I-College Name
+Inc	I-College Name
+"
+"	O
+Location:	O
+Philippines	B-Location
+"
+"	O
+November	O
+2014.0	B-Graduation Year
+"
+"	O
+Grade	O
+:	O
+85.0	O
+out	O
+of	O
+100.0	O
+"
+"	O
+gpilongo@hcdc.edu.ph	O
+"
+"	O
+"
+"	O
+EDUCATIONAL	O
+BACKGROUND	O
+"
+"	O
+Tertiary	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+Information	I-Degree
+Technology	I-Degree
+2014.0	B-Graduation Year
+"
+"	O
+Holy	B-College Name
+Cross	I-College Name
+of	I-College Name
+Davao	I-College Name
+College,	I-College Name
+Inc.	I-College Name
+"
+"	O
+Sta.	B-Location
+Ana	I-Location
+Avenue,	I-Location
+Davao	I-Location
+City	I-Location
+"
+"	O
+Citation	B-College Name
+Awardee	I-College Name
+"
+"	I-College Name
+Secondary	I-College Name
+Cogon	I-College Name
+National	I-College Name
+High	I-College Name
+School	I-College Name
+2010.0	B-Graduation Year
+"
+"	O
+Brgy.	B-Location
+Cogon,	I-Location
+Babak	I-Location
+Dist.,	I-Location
+IGaCoS	O
+"
+"	O
+Salutatorian	O
+"
+"	O
+Elementary	B-Degree
+Cogon	B-College Name
+Elementary	I-College Name
+School	I-College Name
+2006.0	B-Graduation Year
+"
+"	O
+Brgy.	B-Location
+Cogon,	I-Location
+Babak	I-Location
+Dist.,	I-Location
+IGaCoS	O
+"
+"	O
+Salutatorian	O
+"
+"	O
+"
+"	O
+SEMINARS/WORKSHOP	O
+"
+"	O
+July	O
+18.0	O
+-	O
+Feb	O
+15,2019	O
+Leadership	O
+Management	O
+and	O
+Development	O
+Program:	O
+9-Day	O
+"
+"	O
+Capability	O
+Building	O
+for	O
+Supervisors	O
+&	O
+Team	O
+Heads	O
+"
+"	O
+Anflo	O
+Training	O
+Room,	O
+Anflocor,	O
+Damosa,	O
+Lanang,	O
+Davao	O
+City	O
+"
+"	O
+Facilitated	O
+by	O
+Prof.	O
+Adela	O
+G.	O
+Ellson	O
+and	O
+Dr.	O
+Aleli	O
+A.	O
+Quirante	O
+"
+"	O
+July	O
+24-25,2018	O
+Effective	O
+Human	O
+Resource	O
+(HR)	O
+Practices	O
+on	O
+Discipline	O
+and	O
+"
+"	O
+Recruitment	O
+"
+"	O
+(An	O
+HR	O
+/	O
+Admin	O
+Course	O
+on	O
+Discipline	O
+and	O
+Recruitment)	O
+"
+"	O
+Apo	O
+View	O
+Hotel,	O
+J.	O
+Camus	O
+St.,	O
+Davao	O
+City	O
+"
+"	O
+Facilitated	O
+by	O
+Business	O
+Trainings	O
+&	O
+Consultancy	O
+"
+"	O
+Alexis	O
+T.	O
+Garzon	O
+-	O
+Resource	O
+Person	O
+"
+"	O
+June	O
+22-23,2015	O
+Building	O
+Competence	O
+and	O
+Confidence	O
+in	O
+Writing	O
+and	O
+Speaking	O
+English	O
+"
+"	O
+Anflocor	O
+Training	O
+Room,	O
+Anflocor	O
+Bldg.,	O
+Damosa,	O
+Lanang	O
+"
+"	O
+Davao	O
+City	O
+"
+"	O
+Facilitated	O
+by	O
+Prof.	O
+Genevieve	O
+Jorolan	O
+"
+"	O
+April	O
+7,2015	O
+Bracing	O
+2015:	O
+Withholding	O
+Tax	O
+Compliance	O
+&	O
+Updates	O
+"
+"	O
+Microtel	O
+by	O
+Wyndham,	O
+Damosa,	O
+Davao	O
+City	O
+"
+"	O
+Facilitated	O
+by	O
+Diaz	O
+Murillo	O
+Dalupan	O
+&	O
+Company	O
+"
+"	O
+"
+"	O
+March	O
+26,2015	O
+Advocacy	O
+Seminar	O
+on	O
+the	O
+Employees’	O
+Compensation	O
+Program	O
+"
+"	O
+The	O
+Pinnacle	O
+Hotel	O
+and	O
+Suites,	O
+Sta.	O
+Ana	O
+Avenue,	O
+Davao	O
+City	O
+"
+"	O
+Facilitated	O
+by	O
+the	O
+Employees’	O
+Compensation	O
+Commission	O
+"
+"	O
+Mindanao	O
+Conference	O
+for	O
+IT	O
+Students	O
+(annual)	O
+"
+"	O
+October,	O
+2012.0	O
+Seminar	O
+on	O
+Cloud	O
+Computing	O
+"
+"	O
+Cebu	O
+City	O
+"
+"	O
+October,	O
+2012.0	O
+Photography	O
+Seminar	O
+"
+"	O
+Holy	O
+Cross	O
+of	O
+Davao	O
+College,	O
+Inc.	O
+"
+"	O
+Sta.	O
+Ana,	O
+Ave.,	O
+Davao	O
+City	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+Image	B-College Name
+Multimedia	I-College Name
+"
+"	O
+Kottayam	B-Location
+"
+"	O
+"
+"	O
+St	B-College Name
+:	I-College Name
+thomas	I-College Name
+Hss	I-College Name
+Pala	B-Location
+"
+"	O
+Higher	B-Degree
+school	I-Degree
+"
+"	O
+SSSLC	B-Degree
+"
+"	O
+"
+"	O
+Diploma	B-Degree
+In	I-Degree
+Visual	I-Degree
+Media	I-Degree
+"
+"	O
+"
+"	O
+2010.0	B-Graduation Year
+"
+"	O
+"
+"	O
+2012.0	O
+-	O
+2014.0	O
+"
+"	O
+"
+"	O
+NSS	O
+HSS	O
+NSS	O
+Karukachal	O
+"
+"	O
+Higher	O
+School	O
+"
+"	O
+HSC	O
+(F)	O
+"
+"	O
+2010.0	O
+-	O
+2012.0	O
+"
+"	O
+"
+"	O
+ANOOP	O
+RAJENDRAN	O
+"
+"	O
+UI	O
+&	O
+UX	O
+DEVELOPER	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+ACADEMIC	O
+QUALIFICATION	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+MBA	B-Degree
+-	I-Degree
+Masters	I-Degree
+Business	I-Degree
+Administration	I-Degree
+in	I-Degree
+Project	I-Degree
+Management.	I-Degree
+Arab	B-College Name
+Academy	I-College Name
+for	I-College Name
+Science,	I-College Name
+Technology	I-College Name
+"
+"	I-College Name
+and	I-College Name
+Maritime	I-College Name
+Transport	I-College Name
+(AAST).	O
+February	B-Graduation Year
+2009.0	I-Graduation Year
+to	I-Graduation Year
+December	I-Graduation Year
+2011.0	I-Graduation Year
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+Degree	I-Degree
+of	I-Degree
+Construction	I-Degree
+Building	I-Degree
+Management.	I-Degree
+Arab	B-College Name
+Academy	I-College Name
+for	I-College Name
+Science,	I-College Name
+Technology	I-College Name
+and	I-College Name
+"
+"	I-College Name
+Maritime	I-College Name
+Transport.	I-College Name
+2002.0	B-Graduation Year
+to	I-Graduation Year
+2007.0	I-Graduation Year
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+:	O
+18.0	O
+Radwan	O
+Elshafaay	O
+Street,	O
+Oliya	O
+Region,	O
+Riyadh,	O
+Saudi	O
+Arabia.	O
+"
+"	O
+44.0	O
+Mansheat	O
+El	O
+Tahrir	O
+Street,	O
+Heliopolis,	O
+Cairo,	O
+Egypt	O
+"
+"	O
+"
+"	O
+Graduation	O
+Project:	O
+Construction	O
+Management	O
+(Giza	O
+Tunnel).	O
+"
+"	O
+Degree	O
+"
+"	O
+:	O
+"
+"	O
+Excellent	O
+with	O
+Honors	O
+"
+"	O
+GPA	O
+"
+"	O
+:	O
+"
+"	O
+3.54	O
+"
+"	O
+Rank	O
+"
+"	O
+:	O
+"
+"	O
+Second	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+"
+"	O
+"
+"	O
+Bucknell	B-College Name
+University	I-College Name
+–	O
+Lewisburg,	B-Location
+PA	I-Location
+"
+"	O
+B.S.	B-Degree
+Physics	I-Degree
+"
+"	O
+Minor:	O
+International	B-Degree
+Relations	I-Degree
+"
+"	O
+International	B-College Name
+Leadership	I-College Name
+Scholarship	I-College Name
+"
+"	O
+"
+"	O
+Graduated	O
+May	B-Graduation Year
+2012.0	I-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Professional	O
+Qualification	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+with	I-Degree
+Specialization	I-Degree
+in	I-Degree
+Transportation	I-Degree
+(2008-2012)	B-Graduation Year
+"
+"	O
+University	B-College Name
+of	I-College Name
+Engineering	I-College Name
+and	I-College Name
+Technology,	I-College Name
+Lahore	I-College Name
+"
+"	O
+"
+"	O
+Employment	O
+History	O
+"
+"	O
+Sr.	O
+No	O
+"
+"	O
+"
+"	O
+Employer	O
+"
+"	O
+"
+"	O
+1.0	O
+"
+"	O
+"
+"	O
+YAS	O
+CONST.	O
+‫نشاءات‬	O
+"
+"	O
+"
+"	O
+‫(	O
+ياس	O
+لال‬SHARJAH,	O
+UAE)	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+RM	O
+Education	O
+Solutions	O
+India	O
+Pvt	O
+Limited,	O
+Trivandrum,	O
+Kerala	O
+"
+"	O
+Worked	O
+at	O
+RM	O
+Education	O
+Solutions	O
+India	O
+Pvt	O
+Limited	O
+as	O
+Systems	O
+Engineer.	O
+Worked	O
+"
+"	O
+in	O
+projects	O
+such	O
+as	O
+School	O
+Management	O
+Information	O
+system	O
+Software,	O
+E-Book	O
+"
+"	O
+Marking	O
+and	O
+E-Testing	O
+Software.	O
+Further	O
+details	O
+can	O
+be	O
+provided	O
+upon	O
+request.	O
+"
+"	O
+"
+"	O
+Education	O
+"
+"	O
+2015-07	B-Graduation Year
+-	I-Graduation Year
+2018-05	I-Graduation Year
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science:	I-Degree
+Computer	I-Degree
+Science	I-Degree
+"
+"	O
+Emmanuel	B-College Name
+College	I-College Name
+Vazhichal	I-College Name
+-	O
+Trivandrum	B-Location
+"
+"	O
+University	O
+of	O
+Kerala	O
+"
+"	O
+"
+"	O
+2011-03	B-Graduation Year
+-	I-Graduation Year
+2012-04	I-Graduation Year
+"
+"	O
+"
+"	O
+SSLC	O
+"
+"	O
+Education	O
+"
+"	O
+2015-07	B-Graduation Year
+-	I-Graduation Year
+2018-05	I-Graduation Year
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science:	I-Degree
+Computer	I-Degree
+Science	I-Degree
+"
+"	O
+Emmanuel	B-College Name
+College	I-College Name
+Vazhichal	I-College Name
+-	O
+Trivandrum	B-Location
+"
+"	O
+University	O
+of	O
+Kerala	O
+"
+"	O
+"
+"	O
+2011-03	B-Graduation Year
+-	I-Graduation Year
+2012-04	I-Graduation Year
+"
+"	O
+"
+"	O
+SSLC	B-Degree
+"
+"	O
+St	B-College Name
+Thomas	I-College Name
+High	I-College Name
+School	I-College Name
+-	O
+Trivandrum	B-Location
+"
+"	O
+"
+"	O
+2013-05	B-Graduation Year
+-	I-Graduation Year
+2015-04	I-Graduation Year
+"
+"	O
+"
+"	O
+High	B-Degree
+School	I-Degree
+Diploma	I-Degree
+"
+"	O
+Fast	O
+learning,	O
+optimistic	O
+and	O
+with	O
+leadership	O
+qualities.	O
+"
+"	O
+Adaptive	O
+to	O
+updated	O
+trends	O
+and	O
+technologies.	O
+"
+"	O
+Works	O
+with	O
+passion	O
+to	O
+things	O
+that	O
+are	O
+of	O
+interests.	O
+"
+"	O
+Ability	O
+to	O
+work	O
+efficiently	O
+in	O
+a	O
+team	O
+or	O
+independently.	O
+"
+"	O
+"
+"	O
+Personal	O
+Details	O
+"
+"	O
+Date	O
+of	O
+birth:	O
+15-06-1997	O
+"
+"	O
+Nationality:	O
+Indian	O
+"
+"	O
+Religion:	O
+Hindu	O
+"
+"	O
+Sex:	O
+Male	O
+"
+"	O
+Father's	O
+Name:	O
+Babu	O
+A	O
+"
+"	O
+Mother's	O
+Name:	O
+Sunitha	O
+Devi	O
+G	O
+"
+"	O
+"
+"	O
+Declaration	O
+"
+"	O
+I	O
+hereby	O
+declare	O
+that	O
+the	O
+particulars	O
+given	O
+above	O
+are	O
+true	O
+and	O
+correct	O
+to	O
+the	O
+best	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATIONAL	O
+BACKGROUND	O
+"
+"	O
+Master	B-Degree
+in	I-Degree
+Business	I-Degree
+Administration	I-Degree
+(3.5Years)	O
+(Major	O
+in	O
+Sales	O
+and	O
+"
+"	O
+Marketing)	O
+CGPA-3.11	O
+from	O
+"
+"	O
+University	B-College Name
+of	I-College Name
+Central	I-College Name
+Punjab,	I-College Name
+Lahore	B-Location
+in	O
+2014.0	B-Graduation Year
+"
+"	O
+Graduate	B-Degree
+in	I-Degree
+Commerce	I-Degree
+(B-Com)	I-Degree
+(2	O
+Years)	O
+from	O
+"
+"	O
+University	B-College Name
+of	I-College Name
+the	I-College Name
+Punjab,	I-College Name
+Lahore	B-Location
+in	O
+2010.0	B-Graduation Year
+"
+"	O
+Intermediate	B-Degree
+in	I-Degree
+Medical	I-Degree
+(F-SC)	I-Degree
+from	O
+"
+"	O
+Government	B-College Name
+Islamia	I-College Name
+College	I-College Name
+Lahore	B-Location
+in	O
+2008.0	B-Graduation Year
+"
+"	O
+Matriculation	B-Degree
+in	I-Degree
+Science	I-Degree
+from	O
+"
+"	O
+Government	B-College Name
+High	I-College Name
+School	I-College Name
+Shad	B-Location
+Bagh	I-Location
+Lahore	I-Location
+in	O
+2006.0	B-Graduation Year
+"
+"	O
+"
+"	O
+.	.
+Education	O
+:	O
+"
+"	O
+"
+"	O
+United	O
+Arab	O
+Emirates	O
+"
+"	O
+Master's	O
+degree,	O
+Master	B-Degree
+in	I-Degree
+Business	I-Degree
+"
+"	I-Degree
+Adm	I-Degree
+"
+"	O
+"
+"	O
+EDUCATION	O
+"
+"	O
+"
+"	O
+Master's	O
+degree,	O
+Master	B-Degree
+in	I-Degree
+Business	I-Degree
+Administration	I-Degree
+"
+"	O
+at	O
+Cardiﬀ	B-College Name
+University	I-College Name
+/	I-College Name
+Prifysgol	I-College Name
+Caerdydd	I-College Name
+"
+"	O
+Location:	O
+Cardiﬀ,	B-Location
+United	I-Location
+Kingdom	I-Location
+"
+"	O
+September	B-Graduation Year
+2018.0	I-Graduation Year
+"
+"	O
+"
+"	O
+Diploma,	B-Degree
+BUSINESS	I-Degree
+MANAGEMENT	I-Degree
+"
+"	O
+at	O
+WESTFORD	B-College Name
+SCHOOL	I-College Name
+OF	I-College Name
+MANAGEMENT	I-College Name
+"
+"	O
+Location:	O
+Sharjah,	B-Location
+United	I-Location
+Arab	I-Location
+Emirates	I-Location
+"
+"	O
+March	B-Graduation Year
+2016.0	I-Graduation Year
+"
+"	O
+"
+"	O
+Bachelor's	B-Degree
+degree,	I-Degree
+bsc	I-Degree
+in	I-Degree
+psychology	I-Degree
+&	I-Degree
+management	I-Degree
+"
+"	O
+at	O
+heriot	B-College Name
+watt	I-College Name
+university	I-College Name
+"
+"	O
+Location:	O
+Dubai,	B-Location
+United	I-Location
+Arab	I-Location
+Emirates	I-Location
+"
+"	O
+3/7	O
+"
+"	O
+"
+"	O
+November	B-Graduation Year
+2015.0	I-Graduation Year
+"
+"	O
+"
+"	O
+SPECIALTIES	O
+"
+"	O
+"
+"	O
+Outlook	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Microsoft	O
+Excel	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+SPSS	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Microsoft	O
+Word	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Microsoft	O
+Oﬃce	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+"
+"	O
+EDUCATIONAL	O
+BACKGROUND	O
+"
+"	O
+Master	O
+Ongoing	O
+"
+"	O
+Master	B-Degree
+in	I-Degree
+Business	I-Degree
+Administration	I-Degree
+Cardiff	B-College Name
+Metropolitan	I-College Name
+University	I-College Name
+"
+"	O
+PG	O
+Diploma	O
+March	O
+"
+"	O
+Executive	B-Degree
+diploma	I-Degree
+in	I-Degree
+business	I-Degree
+management	I-Degree
+Westford	B-College Name
+School	I-College Name
+of	I-College Name
+Management,	I-College Name
+Dubai	B-Location
+"
+"	O
+"
+"	O
+6/7	O
+"
+"	O
+"
+"	O
+Bachelor	O
+November	O
+"
+"	O
+Bachelor	B-Degree
+In	I-Degree
+psychology	I-Degree
+with	I-Degree
+management	I-Degree
+Heriot	B-College Name
+Watt	I-College Name
+University,	I-College Name
+Dubai	B-Location
+"
+"	O
+Intermidiate	O
+June	O
+"
+"	O
+Secondary	B-Degree
+and	I-Degree
+higher	I-Degree
+secondary	I-Degree
+The	B-College Name
+Indian	I-College Name
+High	I-College Name
+School,	I-College Name
+Dubai.	B-Location
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+PG	B-Degree
+Diploma	I-Degree
+in	I-Degree
+Materials	I-Degree
+Management	I-Degree
+"
+"	O
+B.Tech.	B-Degree
+(Mechanical	I-Degree
+Engineering)	I-Degree
+"
+"	O
+"
+"	O
+IIMM,	B-College Name
+Mumbai	I-College Name
+"
+"	O
+Cochin	B-College Name
+University	I-College Name
+of	I-College Name
+Science	I-College Name
+&	I-College Name
+Technology	I-College Name
+"
+"	O
+"
+"	O
+Pursuing	O
+"
+"	O
+2001.0	B-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION;	O
+"
+"	O
+B.E	B-Degree
+IN	I-Degree
+CIVIL	I-Degree
+"
+"	I-Degree
+ENGINEERING	I-Degree
+"
+"	O
+Karnatak	B-College Name
+University	I-College Name
+.	O
+"
+"	O
+INDIA	B-Location
+"
+"	O
+1989.0	B-Graduation Year
+"
+"	O
+EMBA	O
+"
+"	O
+Primavera	O
+&	O
+MS	O
+Project	O
+"
+"	O
+Planning	O
+Training.	O
+"
+"	O
+Lead	O
+Auditor	O
+Course	O
+ISO	O
+"
+"	O
+9001:2008	O
+IRCA	O
+Certified,	O
+"
+"	O
+NATIONALITY;	O
+"
+"	O
+INDIAN	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+Membership	O
+of	O
+syndicate	O
+"
+"	O
+"
+"	O
+:	O
+Egyptian	O
+syndicate	O
+of	O
+engineers	O
+Number	O
+(	O
+40/00582).	O
+"
+"	O
+:	O
+Saudi	O
+Council	O
+Of	O
+Engineers	O
+"
+"	O
+"
+"	O
+Number	O
+(291275)	O
+.	O
+"
+"	O
+"
+"	O
+Educational	O
+institution	O
+"
+"	O
+"
+"	O
+:	O
+El_Shorouk	B-College Name
+Academy,	I-College Name
+Egypt.	I-College Name
+"
+"	O
+"
+"	O
+Year	O
+of	O
+Graduation	O
+"
+"	O
+"
+"	O
+:	O
+May	B-Graduation Year
+2010.0	I-Graduation Year
+"
+"	O
+"
+"	O
+Qualified	O
+scientific	O
+"
+"	O
+"
+"	O
+:	O
+Bachelor	B-Degree
+of	I-Degree
+Engineering	I-Degree
+(	I-Degree
+Civil	I-Degree
+Department)	I-Degree
+.	O
+"
+"	O
+"
+"	O
+Degree	O
+Of	O
+Graduation	O
+"
+"	O
+"
+"	O
+:	O
+Pass.	O
+"
+"	O
+"
+"	O
+Graduation	O
+Project	O
+"
+"	O
+"
+"	O
+:	O
+Properties	O
+and	O
+Strength	O
+of	O
+Materials	O
+(Excellent	O
+).	O
+"
+"	O
+"
+"	O
+COURSES	O
+"
+"	O
+1.0	O
+Project	O
+Management	O
+Professional	O
+Certification	O
+Exam	O
+Preparation	O
+"
+"	O
+2.0	O
+Construction	O
+Management	O
+Planning&	O
+Control	O
+Level	O
+One	O
+&	O
+Level	O
+Two	O
+"
+"	O
+3.0	O
+Planning	O
+&	O
+Cost	O
+Control	O
+Professional	O
+using	O
+Primavera	O
+6.0	O
+R	O
+8.1	O
+"
+"	O
+4.0	O
+work	O
+shop	O
+planning	O
+Cost	O
+Control	O
+Professional	O
+using	O
+Primavera	O
+6.0	O
+R	O
+8.1	O
+"
+"	O
+5.0	O
+Project	O
+Planning	O
+&	O
+Control	O
+Sheets	O
+using	O
+Excel	O
+"
+"	O
+6.0	O
+claims	O
+&	O
+FIDIC	O
+"
+"	O
+"
+"	O
+From	O
+project	O
+management	O
+expert	O
+.	O
+"
+"	O
+"
+"	O
+III	O
+"
+"	O
+III	O
+"
+"	O
+"
+"	O
+7.0	O
+Primavera	O
+6.0	O
+R	O
+6.1	O
+"
+"	O
+8.0	O
+AutoCAD	B-Degree
+(2D)	I-Degree
+"
+"	O
+"
+"	O
+From	O
+Arab	B-College Name
+Academy	I-College Name
+for	I-College Name
+Science,	I-College Name
+Technology	I-College Name
+&	I-College Name
+Maritime	I-College Name
+Transport.	I-College Name
+"
+"	O
+9.0	O
+Primavera	O
+R	O
+3.1	O
+"
+"	O
+"
+"	O
+From	O
+EAAC.	O
+"
+"	O
+"
+"	O
+.	.
+ACADEMIC	O
+QUALIFICATIONS	O
+"
+"	O
+"
+"	O
+A.	O
+BSc	B-Degree
+in	I-Degree
+Quantity	I-Degree
+Surveying	I-Degree
+and	I-Degree
+Construction	I-Degree
+Management	I-Degree
+·Sheffield	B-College Name
+Hallam	I-College Name
+University	I-College Name
+"
+"	O
+UK.	B-Location
+"
+"	O
+B.	O
+Higher	B-Degree
+National	I-Degree
+Diploma	I-Degree
+in	I-Degree
+Quantity	I-Degree
+Surveying,	I-Degree
+Middlesex	B-College Name
+University	I-College Name
+UK.	B-Location
+"
+"	O
+C.	O
+Senior	B-Degree
+Technical	I-Degree
+Collage	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+Course	I-Degree
+conducted	O
+by	O
+Institute	O
+for	O
+"
+"	O
+Construction	O
+Training	O
+and	O
+Development	O
+(ICTAD)	O
+Ministry	O
+of	O
+Policy	O
+Planning	O
+and	O
+"
+"	O
+Implementation	O
+Sri	O
+Lanka.	O
+At	O
+Hardy	B-College Name
+Senior	I-College Name
+Technical	I-College Name
+College	I-College Name
+Ampara,	I-College Name
+Sri	B-Location
+Lanka.	I-Location
+"
+"	O
+D.	O
+Successfully	O
+completed	O
+a	O
+Civil	B-Degree
+Engineering	I-Degree
+Diploma	I-Degree
+Course	I-Degree
+-	O
+level	O
+III	O
+at	O
+Open	B-College Name
+"
+"	I-College Name
+University	I-College Name
+of	I-College Name
+Sri	I-College Name
+Lanka	I-College Name
+"
+"	O
+E.	O
+Successfully	O
+completed	O
+the	O
+AutoCAD	B-Degree
+2000/	I-Degree
+5.0	O
+Course	O
+conducted	O
+by	O
+the	B-College Name
+Vocational	I-College Name
+"
+"	I-College Name
+Training	I-College Name
+Authority	I-College Name
+of	I-College Name
+Sri	I-College Name
+Lanka	I-College Name
+(Industrial	O
+Engineering	O
+and	O
+Business	O
+management).	O
+"
+"	O
+"
+"	O
+PROFESSIONAL	O
+QUALIFICATIONS	O
+&	O
+MEMBERSHIPS	O
+"
+"	O
+_____________________________________________________________________	O
+"
+"	O
+A.	O
+I'm	O
+planning	O
+to	O
+do	O
+my	O
+charter	O
+on	O
+April’	O
+2015.0	O
+(AIQS)	O
+"
+"	O
+FAMILIARITY	O
+IN	O
+STANDAD	O
+METHODS	O
+OF	O
+MEASUREMENTS	O
+&	O
+CONDITIONS	O
+OF	O
+"
+"	O
+CONTRACTS	O
+"
+"	O
+"
+"	O
+A.	O
+Standard	O
+Method	O
+of	O
+Measurement	O
+(SMM7)	O
+"
+"	O
+B.	O
+Principles	O
+of	O
+Measurement	O
+(POMI)	O
+"
+"	O
+C.	O
+Sri	O
+Lanka	O
+Surveyors	O
+and	O
+Levelers	O
+(SSLS573)	O
+"
+"	O
+C.	O
+Standard	O
+Method	O
+of	O
+Measurement	O
+for	O
+Civil	O
+Engineering	O
+Works	O
+(CESMM3)	O
+"
+"	O
+D.	O
+Condition	O
+of	O
+Contracts	O
+–	O
+FIDIC	O
+88,	O
+99.0	O
+"
+"	O
+"
+"	O
+CONTINUESE	O
+PROFESSINAL	O
+DEVELOPMENT	O
+(CPD)	O
+"
+"	O
+_____________________________________________________________________	O
+"
+"	O
+A.	O
+Risk	O
+Management	O
+(3	O
+CPDs)	O
+–	O
+The	O
+George	O
+Washington	O
+University	O
+"
+"	O
+5.0	O
+"
+"	O
+"
+"	O
+B.	O
+Sound	O
+Contract	O
+Administration	O
+(10	O
+CPDs)	O
+–	O
+Prof.	O
+Indrawansa	O
+Samaratunga	O
+"
+"	O
+C.	O
+Delivering	O
+Customer	O
+Excellence	O
+–	O
+Nakheel	O
+Learning	O
+&	O
+Development	O
+"
+"	O
+D.	O
+Business	O
+English,	O
+Intermediate	O
+–	O
+International	O
+House	O
+"
+"	O
+E.	O
+First	O
+Aid	O
+for	O
+Appointed	O
+Person	O
+–	O
+UK	O
+Health	O
+&	O
+Safety	O
+Society	O
+"
+"	O
+"
+"	O
+COMPUTER	O
+LITERACY	O
+"
+"	O
+____________________________________________________________________	O
+"
+"	O
+A.	O
+Familiar	O
+with	O
+Microsoft	O
+office	O
+Packages	O
+"
+"	O
+B.	O
+Drafting	O
+and	O
+Quantity	O
+take	O
+off	O
+using	O
+AutoCAD	O
+"
+"	O
+C.	O
+Quantity	O
+Verifications	O
+using	O
+Dredging	O
+and	O
+Reclamation	O
+calculation	O
+software	O
+"
+"	O
+D.	O
+Preparation	O
+of	O
+BOQ	O
+and	O
+Cost	O
+Plan	O
+using	O
+EVEREST	O
+"
+"	O
+E.	O
+Project	O
+Planning	O
+using	O
+MS	O
+Project	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATIONAL	O
+QUALIFICATION	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+B.Sc.	B-Degree
+(Hons)	I-Degree
+Degree	I-Degree
+in	I-Degree
+Quantity	I-Degree
+Surveying	I-Degree
+from	O
+Department	B-College Name
+of	I-College Name
+Building	I-College Name
+Economics	I-College Name
+University	I-College Name
+of	I-College Name
+Moratuwa,	I-College Name
+"
+"	O
+Sri	B-Location
+Lanka,	I-Location
+which	O
+is	O
+accredited	O
+by	O
+RICS,	O
+CICES,	O
+PAQS	O
+AIQS	O
+and	O
+NZIQS.	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Completed	O
+the	O
+degree	O
+with	O
+a	O
+FIRST	O
+CLASS	O
+(3.86	O
+GPA)	O
+and	O
+awarded	O
+Six	O
+Dean	O
+Certificates	O
+to	O
+acknowledge	O
+the	O
+"
+"	O
+highest	O
+performance	O
+in	O
+academic	O
+exams.	O
+"
+"	O
+"
+"	O
+PROFESSIONAL	O
+QUALIFICATIONS	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Completed	O
+Chartered	O
+Institute	O
+of	O
+Management	O
+Accountants	O
+[CIMA]	O
+-	O
+UK	O
+examinations	O
+to	O
+acquire	O
+wide	O
+"
+"	O
+range	O
+of	O
+knowledge	O
+over	O
+Cost	O
+Management	O
+and	O
+Finance	O
+aspects	O
+of	O
+the	O
+corporate	O
+world.	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+CIMA	O
+Advanced	O
+Diploma	O
+in	O
+Management	O
+Accounting	O
+"
+"	O
+:	O
+Completed	O
+on	O
+2013.0	O
+"
+"	O
+CIMA	O
+Diploma	O
+in	O
+Management	O
+Accounting	O
+"
+"	O
+:	O
+Completed	O
+on	O
+2014.0	O
+"
+"	O
+Become	O
+a	O
+CIMA	O
+PASSED	O
+FINALIST	O
+by	O
+facing	O
+computer	O
+based	O
+online	O
+examination	O
+on	O
+2015.0	O
+August	O
+"
+"	O
+"
+"	O
+DOCUMENTS	O
+FAMILIAR	O
+WITH	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Standard	O
+Method	O
+of	O
+Measurement	O
+of	O
+Building	O
+works	O
+(SMM7)	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Details	O
+Measurement	O
+for	O
+Building	O
+Works	O
+(NRM	O
+2)	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Civil	O
+Engineering	O
+Standard	O
+Methods	O
+of	O
+Measurement	O
+(CESMM	O
+3.0	O
+&	O
+4)	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Principles	O
+of	O
+Measurement	O
+International	O
+(POMI)	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Sri	O
+Lankan	O
+Standard	O
+Method	O
+of	O
+Measurement	O
+(SLS	O
+573)	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+ICTAD	O
+Conditions	O
+of	O
+Contract,	O
+Sri	O
+Lanka	O
+(	O
+SBD	O
+versions)	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+FIDIC	O
+Conditions	O
+of	O
+Contract	O
+-1st	O
+Edition	O
+1999.0	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Building	O
+Schedule	O
+of	O
+Rates	O
+(BSR)	O
+and	O
+Highway	O
+Schedule	O
+of	O
+Rates	O
+(HSR)	O
+"
+"	O
+"
+"	O
+[4]	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+"
+"	O
+Masters	B-Degree
+in	I-Degree
+Business	I-Degree
+Administration	I-Degree
+-	I-Degree
+Marketing	I-Degree
+"
+"	O
+IBA,	B-College Name
+University	I-College Name
+of	I-College Name
+Punjab,	I-College Name
+Lahore	B-Location
+"
+"	O
+"
+"	O
+(2011-2013)	B-Graduation Year
+"
+"	O
+"
+"	O
+MS	B-Degree
+Total	I-Degree
+Quality	I-Degree
+Management	I-Degree
+"
+"	O
+(2004-2005)	B-Graduation Year
+"
+"	O
+Institute	B-College Name
+of	I-College Name
+Quality	I-College Name
+&	I-College Name
+Technology	I-College Name
+Management,	I-College Name
+University	I-College Name
+of	I-College Name
+Punjab	I-College Name
+"
+"	O
+B.Sc.	B-Degree
+Engineering	I-Degree
+(Mechanical)	I-Degree
+"
+"	O
+University	B-College Name
+of	I-College Name
+Engineering	I-College Name
+&	I-College Name
+Technology,	I-College Name
+Lahore	B-Location
+"
+"	O
+"
+"	O
+(2000-2004)	B-Graduation Year
+"
+"	O
+"
+"	O
+Certification	O
+"
+"	O
+	O
+Certiified	O
+Supply	O
+Chain	O
+Manager	O
+"
+"	O
+(certification	O
+achieved	O
+with	O
+87%)	O
+"
+"	O
+Awarded	O
+by	O
+International	O
+Supply	O
+Chain	O
+Education	O
+Alliance	O
+–	O
+USA,	O
+on	O
+01-Jun-2015.	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+ADVANCED	B-Degree
+DIPLOMA	I-Degree
+IN	I-Degree
+BIG	I-Degree
+DATA	I-Degree
+ANALYTICS	I-Degree
+2020.0	B-Graduation Year
+"
+"	O
+National	B-College Name
+Institute	I-College Name
+of	I-College Name
+Electronics	I-College Name
+&	I-College Name
+Information	I-College Name
+Technology	I-College Name
+"
+"	O
+"
+"	O
+BACHELOR	B-Degree
+OF	I-Degree
+TECHNOLOGY	I-Degree
+IN	I-Degree
+COMPUTER	I-Degree
+SCIENCE	I-Degree
+2019.0	B-Graduation Year
+"
+"	O
+Sree	B-College Name
+Chitra	I-College Name
+Thirunal	I-College Name
+College	I-College Name
+of	I-College Name
+Engineering,	I-College Name
+Trivandrum	B-Location
+"
+"	O
+"
+"	O
+AWARDS	O
+"
+"	O
+ROLLER	O
+HOCKEY	O
+STATE	O
+SECOND	O
+"
+"	O
+"
+"	O
+CLASS	O
+XII	O
+&	O
+CLASS	O
+X	O
+"
+"	O
+Catholicate	O
+Higher	O
+Secondary	O
+School,	O
+Pathanamthitta	O
+"
+"	O
+"
+"	O
+Under	O
+10.0	O
+Roller	O
+hockey	O
+state	O
+"
+"	O
+tournament	O
+winner	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+:	O
+"
+"	O
+"
+"	O
+Dubai,	O
+United	O
+Arab	O
+Emirates	O
+"
+"	O
+High	O
+school	O
+or	O
+equivalent,	O
+Mass	O
+"
+"	O
+Communi	O
+"
+"	O
+"
+"	O
+EDUCATION	O
+"
+"	O
+"
+"	O
+High	B-Degree
+school	I-Degree
+or	I-Degree
+equivalent,	I-Degree
+Mass	I-Degree
+Communication	O
+"
+"	O
+at	O
+San	B-College Name
+Sebastian	I-College Name
+Recoletos	I-College Name
+"
+"	O
+Location:	O
+United	B-Location
+Arab	I-Location
+Emirates	I-Location
+"
+"	I-Location
+January	B-Graduation Year
+2009.0	I-Graduation Year
+"
+"	O
+courses:	O
+Cavite	O
+State	O
+University	O
+"
+"	O
+"
+"	O
+3/7	O
+"
+"	O
+"
+"	O
+High	O
+school	O
+or	O
+equivalent,	O
+Mass	O
+Communication	O
+"
+"	O
+at	O
+Tanza	O
+National	O
+Comprehensive	O
+High	O
+SchoolCalderon	O
+Elementary	O
+School	O
+"
+"	O
+Location:	O
+United	O
+Arab	O
+Emirates	O
+"
+"	O
+January	O
+2004.0	O
+"
+"	O
+(	O
+"
+"	O
+"
+"	O
+SPECIALTIES	O
+"
+"	O
+"
+"	O
+Time	O
+Management	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Job	O
+Posting	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Interviewing	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Sourcing	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+Recruitment	O
+"
+"	O
+Questions:	O
+0.0	O
+"
+"	O
+Answers:	O
+0.0	O
+"
+"	O
+"
+"	O
+qualifications,	O
+availability	O
+and	O
+compensation	O
+requirements	O
+and	O
+document	O
+these	O
+"
+"	O
+interviews.	O
+"
+"	O
+*	O
+Posting	O
+jobs	O
+to	O
+get	O
+more	O
+qualified	O
+leads.	O
+"
+"	O
+*	O
+Sets	O
+up	O
+interviews	O
+between	O
+candidates	O
+and	O
+hiring	O
+managers.	O
+"
+"	O
+*	O
+Serves	O
+as	O
+a	O
+Quality	O
+Analyst	O
+of	O
+the	O
+Researchers.	O
+"
+"	O
+*	O
+Coordinate	O
+with	O
+the	O
+client	O
+about	O
+any	O
+updates	O
+or	O
+changes	O
+of	O
+the	O
+requirements.	O
+"
+"	O
+*	O
+Create	O
+and	O
+prepare	O
+offer	O
+letters	O
+for	O
+the	O
+candidates.	O
+"
+"	O
+*	O
+Onboarding	O
+of	O
+new	O
+hires	O
+and	O
+serves	O
+as	O
+their	O
+partner/buddy	O
+throughout	O
+the	O
+training	O
+"
+"	O
+period.	O
+"
+"	O
+*	O
+In	O
+charge	O
+of	O
+Full	O
+Cycle	O
+Recruitment.	O
+"
+"	O
+Sales	O
+and	O
+Reservation	O
+Executive	O
+"
+"	O
+Hilton	O
+Worldwide	O
+"
+"	O
+January	O
+-	O
+May	O
+"
+"	O
+Rockwell	O
+Business	O
+Center,	O
+Pasig	O
+City,	O
+Philippines	O
+"
+"	O
+*	O
+Understands	O
+the	O
+hotel's	O
+policy	O
+on	O
+guaranteed	O
+reservations	O
+and	O
+no-shows.	O
+"
+"	O
+*	O
+Processes	O
+advance	O
+deposits	O
+on	O
+reservations	O
+efficiently.	O
+"
+"	O
+*	O
+Processes	O
+reservations	O
+by	O
+mail,	O
+telephone,	O
+telex,	O
+cable,	O
+fax	O
+or	O
+central	O
+"
+"	O
+reservation	O
+systems	O
+referral.	O
+"
+"	O
+*	O
+Processes	O
+reservations	O
+from	O
+the	O
+sales	O
+office,	O
+other	O
+hotel	O
+departments,	O
+and	O
+travel	O
+"
+"	O
+agents.	O
+"
+"	O
+6/7	O
+"
+"	O
+"
+"	O
+*	O
+Knows	O
+the	O
+selling	O
+status,	O
+rates,	O
+and	O
+benefits	O
+of	O
+all	O
+packages	O
+plans.	O
+"
+"	O
+*	O
+Tracks	O
+future	O
+room	O
+availabilities	O
+on	O
+the	O
+basis	O
+of	O
+reservations.	O
+"
+"	O
+*	O
+Helps	O
+develop	O
+room	O
+revenue	O
+and	O
+occupancy	O
+forecasts.	O
+"
+"	O
+*	O
+Cross	O
+sell	O
+other	O
+Hilton	O
+branded	O
+hotels.	O
+"
+"	O
+CERTIFICATIONS	O
+AND	O
+AWARDS	O
+"
+"	O
+*	O
+Certified	O
+Call	O
+Center	O
+Agent	O
+-	O
+Career	O
+Core	O
+Development	O
+"
+"	O
+*	O
+A+Player	O
+-	O
+PSG	O
+Global	O
+Solutions	O
+and	O
+"
+"	O
+(Recognition	O
+from	O
+Board	O
+Members	O
+for	O
+the	O
+Recruiters	O
+who	O
+exceeded	O
+the	O
+Company	O
+and	O
+"
+"	O
+Client	O
+Targets)	O
+"
+"	O
+EDUCATIONAL	O
+ATTAINMENT	O
+"
+"	O
+Cavite	O
+State	O
+University	O
+Don	O
+Severino	O
+Delas	O
+Alas	O
+Campus	O
+"
+"	O
+(AB	O
+Mass	O
+Communication)	O
+()	O
+"
+"	O
+Recoletos	O
+de	O
+Cavite	O
+San	O
+Sebastian	O
+"
+"	O
+(AB	O
+Mass	O
+Communication)	O
+()	O
+"
+"	O
+Tanza	O
+National	O
+Comprehensive	O
+"
+"	O
+High	O
+School	O
+()	O
+"
+"	O
+Felipe	O
+Calderon	O
+"
+"	O
+Elementary	O
+School	O
+()	O
+"
+"	O
+"
+"	O
+7/7	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+SUMMARY	O
+OF	O
+QUALIFICATIONS	O
+"
+"	O
+Technical	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Knowledge	O
+of	O
+relevant	O
+design	O
+codes	O
+for	O
+bridges	O
+and	O
+transport	O
+schemes.	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Collecting	O
+information,	O
+investigating	O
+options	O
+and	O
+devising	O
+solutions.	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Verifying	O
+the	O
+work	O
+of	O
+others.	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Good	O
+understanding	O
+of	O
+design	O
+and	O
+construction	O
+processes.	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Using	O
+a	O
+range	O
+of	O
+computer	O
+packages	O
+for	O
+developing	O
+detailed	O
+designs.	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Ability	O
+to	O
+think	O
+methodically,	O
+to	O
+design,	O
+plan	O
+and	O
+manage	O
+projects.	O
+"
+"	O
+"
+"	O
+ACADEMIC	O
+CREDENTIALS	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Technology	I-Degree
+in	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Higher	B-Degree
+Secondary	I-Degree
+Education	I-Degree
+(+2)	I-Degree
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Professional	O
+Qualifications	O
+"
+"	O
+"
+"	O
+	O
+BTEC-HND	B-Degree
+in	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+-	O
+specialized	O
+in	O
+Buildings	O
+and	O
+Structures	O
+-	O
+awarded	O
+by	O
+"
+"	O
+Sri	B-College Name
+Lanka	I-College Name
+Institute	I-College Name
+of	I-College Name
+Advanced	I-College Name
+Technological	I-College Name
+Education	I-College Name
+(SLIATE)	O
+–	O
+3.5	O
+years	O
+"
+"	O
+	O
+PRIMAVERA	O
+(P6	O
+8.2)	O
+-	O
+Project	B-Degree
+Planning	I-Degree
+&	I-Degree
+Management	I-Degree
+awarded	O
+by	O
+CADD	B-College Name
+Centre	I-College Name
+"
+"	O
+"
+"	O
+	O
+Surveying	O
+&	O
+Leveling	O
+–	O
+Participated	O
+for	O
+a	O
+Survey	O
+Camp	O
+(6	O
+Days)	O
+at	O
+Institute	O
+of	O
+Surveying	O
+"
+"	O
+&	O
+Mapping	O
+–	O
+Diyathalawa	O
+(Sri	O
+Lanka)	O
+"
+"	O
+	O
+Measurement	O
+and	O
+Estimation	O
+-	O
+Included	O
+within	O
+HNDE	O
+Program	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+&	O
+Registrations	O
+"
+"	O
+"
+"	O
+B	B-Degree
+.Sc.	I-Degree
+in	I-Degree
+Electrical	I-Degree
+Engineering	I-Degree
+(August	B-Graduation Year
+2008)	I-Graduation Year
+"
+"	O
+Major:	O
+Electronics	B-Degree
+and	I-Degree
+Communications	I-Degree
+Engineering	I-Degree
+"
+"	O
+"
+"	O
+University:	O
+Misr	B-College Name
+University	I-College Name
+for	I-College Name
+Science	I-College Name
+&	I-College Name
+Technology	I-College Name
+Faculty	O
+of	O
+"
+"	O
+Engineering,	O
+6th	O
+"
+"	O
+October	O
+City,	O
+Egypt	B-Location
+"
+"	O
+Grade:	O
+Good	O
+"
+"	O
+Graduation	O
+project:	O
+Automated	O
+Vehicle	O
+(Metro)	O
+using	O
+Wireless	O
+PLC	O
+"
+"	O
+Grade:-	O
+Excellent	O
+"
+"	O
+"
+"	O
+PROJECT:	O
+"
+"	O
+"
+"	O
+.	O
+Design	O
+and	O
+Implementation	O
+of	O
+High	O
+control	O
+of	O
+Metro	O
+by	O
+Wireless	O
+PLC	O
+"
+"	O
+.	O
+Emulation	O
+complete	O
+model	O
+for	O
+Metro	O
+Programming	O
+by	O
+Wireless	O
+PLC	O
+"
+"	O
+.	O
+Development	O
+of	O
+Emulation	O
+program	O
+with	O
+PLC	O
+"
+"	O
+"
+"	O
+"
+"	O
+Membership	O
+Member	O
+in	O
+Egyptian	O
+Syndicate	O
+of	O
+Engineers	O
+Number	O
+72/08732	O
+"
+"	O
+Member	O
+in	O
+Federation	O
+of	O
+Arab	O
+Engineers	O
+Number	O
+16/32	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Professional	O
+Qualifications	O
+"
+"	O
+MBA	B-Degree
+Marketing	I-Degree
+Hamdard	B-College Name
+University	I-College Name
+Karachi	B-Location
+(Pakistan)	I-Location
+"
+"	O
+Bsc	B-Degree
+Engineering	I-Degree
+UET	B-College Name
+Lahore	I-College Name
+1994.0	O
+(Pakistan	B-Location
+)	O
+"
+"	O
+"
+"	O
+1997.0	B-Graduation Year
+"
+"	O
+"
+"	O
+Professional	O
+Experiences:	O
+"
+"	O
+Marh	O
+2011.0	O
+to	O
+Date	O
+(	O
+Representative	O
+of	O
+GE	O
+and	O
+Honeywell)	O
+"
+"	O
+"
+"	O
+Sr	O
+Sales	O
+Engineer	O
+"
+"	O
+Involved	O
+in	O
+Techno-Commercial	O
+sourcing	O
+of	O
+different	O
+power	O
+Plant	O
+related	O
+"
+"	O
+products	O
+from	O
+reputed	O
+Global	O
+suppliers	O
+such	O
+as	O
+GE,	O
+Foxboro,	O
+Honeywell,	O
+etc.	O
+"
+"	O
+Further	O
+responsibilities	O
+include	O
+vetting	O
+and	O
+participation	O
+in	O
+Tenders,	O
+Project	O
+"
+"	O
+Management	O
+,	O
+Quality	O
+Control	O
+documentation,	O
+with	O
+vendors	O
+and	O
+EPC	O
+contractors	O
+"
+"	O
+for	O
+Mechanical/Electrical	O
+related	O
+products	O
+and	O
+services	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Associate	O
+Chartered	O
+Accountant	O
+"
+"	O
+-	O
+Cleared	O
+CA	O
+Final	O
+examinations	O
+with	O
+21st	O
+rank	O
+on	O
+All	O
+India	O
+Basis.	O
+"
+"	O
+-	O
+Cleared	O
+CA	O
+Foundation	O
+examination	O
+with	O
+19th	O
+rank	O
+on	O
+All	O
+India	O
+Basis.	O
+"
+"	O
+"
+"	O
+May	O
+2005.0	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Commerce,	I-Degree
+Shri	B-College Name
+Ram	I-College Name
+College	I-College Name
+of	I-College Name
+Commerce,	I-College Name
+Delhi	B-Location
+–	O
+(76%)	O
+"
+"	O
+-	O
+Secured	O
+2nd	O
+rank	O
+in	O
+Delhi	O
+University	O
+in	O
+B.	O
+Com	O
+(Hons.)	O
+1st	O
+year.	O
+"
+"	O
+-	O
+Awarded	O
+UFJ	O
+Foundations	O
+and	O
+SRCC	O
+Alumni	O
+scholarships	O
+for	O
+academic	O
+excellence.	O
+"
+"	O
+"
+"	O
+2004.0	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+CBSE(Class	B-Degree
+XII)	I-Degree
+Mahavir	B-College Name
+Senior	I-College Name
+Model	I-College Name
+School,	I-College Name
+Delhi	B-Location
+–	O
+(92%)	O
+"
+"	O
+-	O
+Topped	O
+the	O
+school	O
+in	O
+Class	O
+XII.	O
+"
+"	O
+-	O
+Secured	O
+1st	O
+rank	O
+in	O
+R.	O
+S.	O
+Asiads	O
+2000.0	O
+for	O
+Accountancy	O
+in	O
+Class	O
+XI.	O
+"
+"	O
+"
+"	O
+2001.0	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+CBSE	B-Degree
+(Class	I-Degree
+X)	I-Degree
+Mahavir	B-College Name
+Senior	I-College Name
+Model	I-College Name
+School,	I-College Name
+Delhi	B-Location
+–	O
+(89%)	O
+"
+"	O
+"
+"	O
+1999.0	O
+"
+"	O
+"
+"	O
+ACTIVITIES/PERSONAL	O
+"
+"	O
+Appointed	O
+Head	O
+Boy	O
+of	O
+the	O
+school.	O
+"
+"	O
+	O
+Represented	O
+Delhi	O
+State	O
+in	O
+XXXXII	O
+National	O
+School	O
+Games	O
+(Under	O
+14.0	O
+All	O
+India	O
+Cricket	O
+Tournament)	O
+held	O
+"
+"	O
+in	O
+Guwahati	O
+in	O
+1996.0	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION:	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+Civil	I-Degree
+Engineering;	I-Degree
+"
+"	O
+"
+"	O
+School	O
+Year:	O
+1983.0	B-Graduation Year
+to	I-Graduation Year
+1988.0	I-Graduation Year
+"
+"	O
+"
+"	O
+University	B-College Name
+of	I-College Name
+the	I-College Name
+Visayas;	I-College Name
+Cebu	B-Location
+City	I-Location
+Philippines	I-Location
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+CORE	O
+QUALIFICATIONS	O
+"
+"	O
+"
+"	O
++971-	O
+588.0	O
+418.0	O
+456.0	O
+"
+"	O
++91-8129	O
+121.0	O
+969.0	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+in/nikhilkanto	O
+"
+"	O
+"
+"	O
+EDUCATION	O
+"
+"	O
+BACHELOR’S	B-Degree
+DEGREE	I-Degree
+–	I-Degree
+"
+"	I-Degree
+MECHANICAL	I-Degree
+ENGINEERING	I-Degree
+"
+"	O
+CSI	B-College Name
+COLLEGE	I-College Name
+OF	I-College Name
+ENGINEERING,	I-College Name
+"
+"	O
+OOTY.	B-Location
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+ACADAMIC	O
+PROJECTS	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+INTEGRATED	O
+BRAKING	O
+AND	O
+ARTIFICIAL	O
+INHALAILATION	O
+IN	O
+IC	O
+ENGINE.	O
+"
+"	O
+(BEST	O
+PROJECT	O
+MECHANICAL	O
+2012)	O
+"
+"	O
+SAFETY	O
+EVALUATION	O
+AND	O
+RATING	O
+TOOL	O
+(SEART)	O
+"
+"	O
+"
+"	O
+PERSONNEL	O
+STRENGTH	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Excellent	O
+Engineering	O
+problem	O
+solving	O
+skill	O
+"
+"	O
+Possesses	O
+strong	O
+ability	O
+for	O
+multitasking	O
+"
+"	O
+Demonstrated	O
+leadership	O
+abilities	O
+"
+"	O
+Be	O
+able	O
+to	O
+work	O
+under	O
+pressure	O
+and	O
+meet	O
+deadlines.	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+Mechanical	I-Degree
+Engineering	I-Degree
+"
+"	O
+"
+"	O
+Institution:	O
+Islamic	B-College Name
+University	I-College Name
+of	I-College Name
+Technology	I-College Name
+(2007)	B-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+Jan	B-Graduation Year
+2015.0	I-Graduation Year
+–	I-Graduation Year
+Jan	I-Graduation Year
+2017.0	I-Graduation Year
+Glasgow	B-College Name
+Caledonian,	I-College Name
+university,	I-College Name
+MSc	B-Degree
+Building	I-Degree
+Services	I-Degree
+Engineering,	I-Degree
+UK	B-Location
+"
+"	O
+(I	O
+will	O
+be	O
+in	O
+UAE	O
+by	O
+January)	O
+"
+"	O
+Sep	B-Graduation Year
+2004.0	I-Graduation Year
+-	I-Graduation Year
+Aug	I-Graduation Year
+2009.0	I-Graduation Year
+6th	O
+Of	O
+October	O
+University,	O
+BSc	B-Degree
+Mechatronic	I-Degree
+Engineering,	I-Degree
+Egypt	B-Location
+"
+"	O
+Sep	O
+2003.0	O
+-	O
+Jun	O
+2004.0	O
+Alathad,	O
+High	O
+School,	O
+Jordan	O
+"
+"	O
+"
+"	O
+ORGANIZATIONS	O
+MEMBERSHIP	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Jordanians	O
+Engineers	O
+Association,	O
+2009.0	O
+"
+"	O
+Saudi	O
+Engineers	O
+Association,	O
+2011.0	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+supervised	O
+learning,	O
+backpropagation,	O
+and	O
+pattern	O
+recognition	O
+with	O
+ANN.	O
+"
+"	O
+•	O
+Preprocessed	O
+fingerprint	O
+images	O
+as	O
+matrices	O
+in	O
+Matlab	O
+and	O
+performed	O
+pattern	O
+classification	O
+"
+"	O
+using	O
+an	O
+ANN	O
+program.	O
+"
+"	O
+Mathematical	O
+Modeling	O
+Research	O
+"
+"	O
+"
+"	O
+Undergraduate	O
+"
+"	O
+"
+"	O
+•	O
+Performed	O
+image	O
+compression	O
+with	O
+SVD	O
+implemented	O
+in	O
+Matlab.	O
+"
+"	O
+•	O
+Ranked	O
+West	O
+Coast	O
+Conference	O
+Men’s	O
+Basketball	O
+teams	O
+using	O
+multiple	O
+centrality	O
+ranking	O
+"
+"	O
+algorithms	O
+in	O
+Matlab.	O
+"
+"	O
+LEADERSHIP	O
+"
+"	O
+"
+"	O
+President,	O
+Pi	O
+Mu	O
+Epsilon	O
+National	O
+Math	O
+Honor	O
+Society	O
+"
+"	O
+Captain,	O
+USF	O
+Women’s	O
+Soccer	O
+"
+"	O
+Teacher’s	O
+Assistant,	O
+USF	O
+Astronomy	O
+Observations	O
+"
+"	O
+"
+"	O
+2014.0	O
+"
+"	O
+2013-2014	O
+"
+"	O
+2013-2014	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Business	I-Degree
+Administration	I-Degree
+"
+"	O
+Kent	B-College Name
+State	I-College Name
+University	I-College Name
+"
+"	O
+Major:	O
+Business	B-Degree
+Management	I-Degree
+"
+"	O
+"
+"	O
+Expected	O
+Graduation:	O
+May	B-Graduation Year
+2018.0	I-Graduation Year
+"
+"	O
+Kent,	B-Location
+Ohio	I-Location
+"
+"	O
+GPA:	O
+3.6	O
+"
+"	O
+"
+"	O
+SIGNIFICANT	O
+COURSEWORK	O
+"
+"	O
+Business	O
+Finance,	O
+Principles	O
+of	O
+Management,	O
+Legal	O
+Environment	O
+of	O
+Business	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATIONAL	O
+BACKGROUND	O
+&	O
+CERTIFICATION	O
+"
+"	O
+2009.0	B-Graduation Year
+–	I-Graduation Year
+2011.0	I-Graduation Year
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Technology	I-Degree
+(Hons)	I-Degree
+In	I-Degree
+Construction	I-Degree
+Management	I-Degree
+"
+"	O
+CGPA	O
+3.274	O
+"
+"	O
+Kuala	B-College Name
+Lumpur	I-College Name
+Infrastructure	I-College Name
+University	I-College Name
+College	I-College Name
+(KLIUC)	I-College Name
+"
+"	O
+Kajang,	B-Location
+Malaysia	I-Location
+"
+"	O
+"
+"	O
+2003.0	B-Graduation Year
+–	I-Graduation Year
+2006.0	I-Graduation Year
+"
+"	O
+"
+"	O
+Diploma	B-Degree
+of	I-Degree
+Engineering	I-Degree
+Studies	I-Degree
+(Building	I-Degree
+&	I-Degree
+Construction)	I-Degree
+"
+"	O
+Grade:	O
+(Excellent)	O
+"
+"	O
+El	B-College Name
+Nasr	I-College Name
+Technical	I-College Name
+College	I-College Name
+"
+"	O
+Khartoum-	B-Location
+Sudan	I-Location
+"
+"	O
+"
+"	O
+ADDITIONAL	O
+CERTIFICATE	O
+"
+"	O
+2015.0	O
+"
+"	O
+"
+"	O
+Project	O
+Management	O
+Professional	O
+Preparatory	O
+Course	O
+"
+"	O
+"
+"	O
+2011.0	O
+"
+"	O
+"
+"	O
+CIDB	O
+Certificate	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATIONAL	O
+QUALIFICATIONS	O
+"
+"	O
+"
+"	O
+B.	B-Degree
+COM.	I-Degree
+Bombay	B-College Name
+University	I-College Name
+(June	B-Graduation Year
+1989)	I-Graduation Year
+"
+"	O
+"
+"	O
+Chartered	B-Degree
+Accountant,	I-Degree
+the	B-College Name
+Institute	I-College Name
+of	I-College Name
+Chartered	I-College Name
+Accountants	I-College Name
+of	I-College Name
+India	I-College Name
+(November	B-Graduation Year
+1994)	I-Graduation Year
+"
+"	O
+"
+"	O
+Post	B-Degree
+Graduate	I-Degree
+Diploma	I-Degree
+in	I-Degree
+Securities	I-Degree
+Laws	I-Degree
+Course,	I-Degree
+Government	B-College Name
+Law	I-College Name
+College,	I-College Name
+Mumbai	B-Location
+(May	B-Graduation Year
+2004)	I-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Secondary	B-Degree
+Certificate	I-Degree
+"
+"	O
+"
+"	O
+1976.0	B-Graduation Year
+Abu	B-College Name
+Dhabi	I-College Name
+Secondary	I-College Name
+School	I-College Name
+Abu	B-Location
+Dhabi	I-Location
+"
+"	O
+"
+"	O
+BS	B-Degree
+in	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+"
+"	O
+"
+"	O
+1981.0	B-Graduation Year
+SanDiego	B-College Name
+State	I-College Name
+University	I-College Name
+San	B-Location
+Diego,	I-Location
+"
+"	I-Location
+"
+"	I-Location
+California	I-Location
+USA	I-Location
+"
+"	O
+"
+"	O
+MS	B-Degree
+in	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+"
+"	O
+"
+"	O
+1983.0	B-Graduation Year
+SanDiego	B-College Name
+State	I-College Name
+University	I-College Name
+San	B-Location
+Diego,	I-Location
+"
+"	I-Location
+"
+"	I-Location
+California	I-Location
+USA	I-Location
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Address:	O
+Alex-Egypt	O
+Qualification:	O
+B.sc.	B-Degree
+Civil	I-Degree
+Engineering	I-Degree
+1994.0	B-Graduation Year
+"
+"	O
+"
+"	O
+"
+"	O
+"
+"	O
+Dear	O
+Sir,	O
+"
+"	O
+"
+"	O
+I	O
+have	O
+the	O
+pleasure	O
+to	O
+submit	O
+my	O
+C.V	O
+to	O
+your	O
+kind	O
+attention	O
+looking	O
+forward	O
+to	O
+have	O
+a	O
+position	O
+within	O
+your	O
+respectable	O
+organization.	O
+"
+"	O
+"
+"	O
+I	O
+am	O
+enclosing	O
+my	O
+C.V.	O
+for	O
+your	O
+review	O
+and	O
+consideration.	O
+"
+"	O
+"
+"	O
+Aside	O
+from	O
+my	O
+education	O
+and	O
+technical	O
+skills,	O
+I	O
+have	O
+the	O
+drive	O
+and	O
+enthusiasm	O
+which	O
+allow	O
+me	O
+to	O
+become	O
+a	O
+positive	O
+force	O
+in	O
+your	O
+organization.	O
+"
+"	O
+"
+"	O
+Thank	O
+you	O
+for	O
+your	O
+attention.	O
+"
+"	O
+"
+"	O
+Sincerely;	O
+Nader	O
+youssef	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+EDUCATION	O
+"
+"	O
+Amrita	B-College Name
+School	I-College Name
+of	I-College Name
+Engineering	I-College Name
+,	O
+Amrita	O
+University	O
+"
+"	O
+M.Tech	B-Degree
+in	I-Degree
+Computational	I-Degree
+Engineering	I-Degree
+&	I-Degree
+Networking	I-Degree
+"
+"	O
+Overall	O
+GPA	O
+:	O
+8.23	O
+"
+"	O
+LBS	B-College Name
+Institute	I-College Name
+of	I-College Name
+Technology	I-College Name
+for	I-College Name
+Women,	I-College Name
+University	I-College Name
+of	I-College Name
+Kerala	I-College Name
+"
+"	O
+B.Tech	B-Degree
+in	I-Degree
+Computer	I-Degree
+Science	I-Degree
+&	I-Degree
+Engineering	I-Degree
+"
+"	O
+Overall	O
+GPA	O
+:	O
+6.39	O
+"
+"	O
+M.M.R.H.S.S,	B-College Name
+State	I-College Name
+Board	I-College Name
+"
+"	O
+12th	B-Degree
+"
+"	O
+Percentage	O
+:	O
+93.66	O
+"
+"	O
+M.M.R.H.S.S,	B-College Name
+State	I-College Name
+Board	I-College Name
+"
+"	O
+SSLC	B-Degree
+"
+"	O
+Percentage	O
+:	O
+95.0	O
+"
+"	O
+"
+"	O
+2015-2017	O
+"
+"	O
+"
+"	O
+2011-2015	O
+"
+"	O
+"
+"	O
+2009-2011	O
+"
+"	O
+"
+"	O
+2008-2009	O
+"
+"	O
+"
+"	O
+AREAS	O
+OF	O
+INTEREST	O
+"
+"	O
+•	O
+Machine	O
+Learning	O
+"
+"	O
+•	O
+Deep	O
+Learning	O
+"
+"	O
+•	O
+Big	O
+Data	O
+"
+"	O
+"
+"	O
+.	.
+Summary	O
+of	O
+Qualification:	O
+"
+"	O
+"
+"	O
+A	O
+self-motivated	O
+Electrical	O
+Engineer	O
+with	O
+6+	O
+years	O
+experiences	O
+in	O
+protection,	O
+metering,	O
+testing,	O
+planning	O
+and	O
+monitoring	O
+of	O
+High	O
+Voltage	O
+/	O
+Distribution	O
+Substations	O
+with	O
+the	O
+Ministry	O
+of	O
+Electricity	O
+&	O
+Renewable	O
+Energy	O
+in	O
+Egypt.	O
+I	O
+have	O
+experienced	O
+working	O
+in	O
+commissioning	O
+works,	O
+tenders	O
+evaluation	O
+and	O
+reporting	O
+weekly	O
+progress	O
+of	O
+Electrical	O
+and	O
+Instrumentation	O
+activities	O
+in	O
+sites.	O
+"
+"	O
+"
+"	O
+Education:	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+BSc	I-Degree
+in	I-Degree
+Electrical	I-Degree
+Engineering,	I-Degree
+Electric	I-Degree
+Power	I-Degree
+and	I-Degree
+Machines	I-Degree
+Department,	I-Degree
+from	O
+Cairo	B-College Name
+University,	I-College Name
+May	B-Graduation Year
+2010.0	I-Graduation Year
+(Last	O
+Year	O
+Grade:	O
+77.6	O
+%),	O
+Cairo,	O
+Egypt.	O
+"
+"	O
+"
+"	O
+Graduation	O
+project	O
+-	O
+High	O
+Voltage	O
+Substation	O
+Design	O
+132.0	O
+kV	O
+(Kema	O
+Factory/	O
+Aswan)	O
+using	O
+PSSVIPER	O
+SIEMENS	O
+(Power	O
+Systems	O
+Simulator	O
+Program)	O
+(Grade:	O
+99.0	O
+%)	O
+"
+"	O
+"
+"	O
+Work	O
+Duties	O
+&	O
+Experience:	O
+"
+"	O
+"
+"	O
+2011.0	O
+–	O
+Commissioning	O
+Engineer	O
+at	O
+EETC	O
+–	O
+Ministry	O
+of	O
+Electricity	O
+–	O
+Egyptian	O
+Electricity	O
+Transmission	O
+Company	O
+–	O
+Planning	O
+&	O
+Monitoring	O
+Sector	O
+from	O
+Feb.	O
+2011.0	O
+to	O
+March	O
+2016.0	O
+"
+"	O
+"
+"	O
+Power	O
+Network	O
+Analysis	O
+:	O
+study	O
+and	O
+analyze	O
+low,	O
+medium	O
+and	O
+high-voltage	O
+networks,	O
+Load	O
+analysis	O
+&	O
+harmonics,	O
+Ripple	O
+control	O
+signal	O
+analysis,	O
+Transient	O
+analysis	O
+(used	O
+devices	O
+:	O
+PQ-Box	O
+200,	O
+UMG	O
+511.0	O
+Janitza,	O
+UniPower),	O
+reporting	O
+the	O
+results	O
+and	O
+follow-up	O
+the	O
+stability	O
+of	O
+the	O
+loads,	O
+harmonics	O
+and	O
+inter-harmonics.	O
+"
+"	O
+Education:	O
+"
+"	O
+"
+"	O
+Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+BSc	I-Degree
+in	I-Degree
+Electrical	I-Degree
+Engineering,	I-Degree
+Electric	I-Degree
+Power	I-Degree
+and	I-Degree
+Machines	I-Degree
+Department,	I-Degree
+from	O
+Cairo	B-College Name
+University,	I-College Name
+May	B-Graduation Year
+2010.0	I-Graduation Year
+(Last	O
+Year	O
+Grade:	O
+77.6	O
+%),	O
+Cairo,	O
+Egypt.	O
+"
+"	O
+"
+"	O
+Graduation	O
+project	O
+-	O
+High	O
+Voltage	O
+Substation	O
+Design	O
+132.0	O
+kV	O
+(Kema	O
+Factory/	O
+Aswan)	O
+using	O
+PSSVIPER	O
+SIEMENS	O
+(Power	O
+Systems	O
+Simulator	O
+Program)	O
+(Grade:	O
+99.0	O
+%)	O
+"
+"	O
+"
+"	O
+Work	O
+Duties	O
+&	O
+Experience:	O
+"
+"	O
+"
+"	O
+2011.0	O
+–	O
+Commissioning	O
+Engineer	O
+at	O
+EETC	O
+–	O
+Ministry	O
+of	O
+Electricity	O
+–	O
+Egyptian	O
+Electricity	O
+Transmission	O
+Company	O
+–	O
+Planning	O
+&	O
+Monitoring	O
+Sector	O
+from	O
+Feb.	O
+2011.0	O
+to	O
+March	O
+2016.0	O
+"
+"	O
+"
+"	O
+Power	O
+Network	O
+Analysis	O
+:	O
+study	O
+and	O
+analyze	O
+low,	O
+medium	O
+and	O
+high-voltage	O
+networks,	O
+Load	O
+analysis	O
+&	O
+harmonics,	O
+Ripple	O
+control	O
+signal	O
+analysis,	O
+Transient	O
+analysis	O
+(used	O
+devices	O
+:	O
+PQ-Box	O
+200,	O
+UMG	O
+511.0	O
+Janitza,	O
+UniPower),	O
+reporting	O
+the	O
+results	O
+and	O
+follow-up	O
+the	O
+stability	O
+of	O
+the	O
+loads,	O
+harmonics	O
+and	O
+inter-harmonics.	O
+"
+"	O
+"
+"	O
+Execute	O
+all	O
+the	O
+energisation	O
+of	O
+the	O
+equipment	O
+on	O
+site	O
+following	O
+the	O
+commissioning	O
+safe	O
+system	O
+of	O
+work	O
+procedures	O
+and	O
+all	O
+the	O
+isolation	O
+and	O
+permit	O
+procedures	O
+according	O
+to	O
+international	O
+standards	O
+(Power	O
+transformers	O
+220.0	O
+kV	O
+,	O
+66,	O
+11.0	O
+kV	O
+MCC	O
+–	O
+Distribution	O
+transformers	O
+11kV/400V).	O
+"
+"	O
+"
+"	O
+Coordinate	O
+and	O
+develop	O
+pre-energisation	O
+tests	O
+and	O
+the	O
+isolation	O
+process	O
+for	O
+all	O
+equipment	O
+on-site.	O
+"
+"	O
+"
+"	O
+.	.
+Education:	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Master	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+(With	O
+Honors)	O
+Lviv	B-College Name
+National	I-College Name
+Polytechnic	I-College Name
+University,1992	I-College Name
+"
+"	O
+"
+"	O
+Courses:	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+	O
+"
+"	O
+	O
+"
+"	O
+"
+"	O
+Project	O
+Management	O
+Body	O
+of	O
+Knowledge	O
+PMP	O
+Course	O
+/	O
+Humber	O
+Collage	O
+–	O
+Toronto,	O
+ON.	O
+"
+"	O
+OBC	O
+9.0	O
+–	O
+Ontario	O
+building	O
+code	O
+preparation	O
+course	O
+/	O
+Humber	O
+Collage	O
+–	O
+Toronto,	O
+ON.	O
+"
+"	O
+Gold	O
+Seal	O
+Certification,	O
+(in	O
+progress)	O
+George	O
+Brown	O
+College,	O
+Toronto,	O
+ON.	O
+"
+"	O
+Construction	O
+Planning	O
+and	O
+Integration	O
+of	O
+PMI	O
+/	O
+Humber	O
+Collage	O
+–	O
+Toronto,	O
+ON.	O
+"
+"	O
+Construction	O
+Project	O
+Procurement	O
+/	O
+Humber	O
+Collage	O
+–	O
+Toronto,	O
+ON	O
+"
+"	O
+Many	O
+seminars	O
+on	O
+different	O
+subjects	O
+and	O
+materials	O
+concerning	O
+the	O
+construction	O
+industry	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+Education	O
+"
+"	O
+"
+"	O
+BEng.	B-Degree
+Hons.	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+Heriot-Watt	B-College Name
+University	I-College Name
+"
+"	O
+"
+"	O
+Dubai	B-Location
+Campus	O
+(2011-2016),	B-Graduation Year
+Edinburgh	O
+Campus	O
+(exchange	O
+program	O
+2014-2015).	O
+"
+"	O
+"
+"	O
+Dissertation:	O
+“Finite	O
+element	O
+study	O
+on	O
+pile	O
+load	O
+testing	O
+in	O
+Dubai,	O
+UAE”.	O
+"
+"	O
+"
+"	O
+Research	O
+areas	O
+"
+"	O
+"
+"	O
+Analysis	O
+of	O
+a	O
+single	O
+pile	O
+load-settlement	O
+behavior	O
+"
+"	O
+"
+"	O
+Finite	O
+element	O
+modelling	O
+of	O
+piles	O
+using	O
+MIDAS	O
+GTS	O
+NX	O
+software	O
+"
+"	O
+"
+"	O
+School	O
+of	O
+the	O
+Classical	O
+Arts	O
+#46	O
+"
+"	O
+"
+"	O
+Almaty,	O
+Kazakhstan	O
+(2008-2011),	O
+High	O
+School	O
+Diploma	O
+–	O
+United	O
+National	O
+Testing.	O
+"
+"	O
+"
+"	O
+Additional	O
+education	O
+and	O
+hobbies	O
+"
+"	O
+"
+"	O
+Workshops	O
+from	O
+AIESEC	O
+“The	O
+art	O
+of	O
+Environment”	O
+(Almaty,	O
+Kazakhstan)	O
+(2015)	O
+"
+"	O
+"
+"	O
+Completed	O
+courses	O
+of	O
+basic	O
+mediation	O
+(Almaty,	O
+Kazakhstan)	O
+(2014)	O
+"
+"	O
+"
+"	O
+Accomplished	O
+musician	O
+(piano):	O
+"
+"	O
+"
+"	O
+Complete	O
+class	O
+of	O
+piano	O
+(Kazakhstan	O
+National	O
+Academy,	O
+Astana,	O
+Kazakhstan	O
+2000-2008)	O
+"
+"	O
+"
+"	O
+Additional	O
+class	O
+of	O
+organ	O
+and	O
+piano	O
+(The	O
+Kazakh	O
+National	O
+Kurmangazy	O
+Conservatory	O
+2009-2010)	O
+"
+"	O
+"
+"	O
+Edinburgh	O
+Society	O
+of	O
+Musicians	O
+"
+"	O
+"
+"	O
+“The	O
+Living	O
+Room”	O
+(pianist	O
+in	O
+the	O
+restaurant)(Edinburgh,	O
+UK)	O
+(2014-2015)	O
+"
+"	O
+"
+"	O
+“Moscow”	O
+(pianist	O
+in	O
+the	O
+restaurant)(Almaty,	O
+Kazakhstan)	O
+(2010-2011)	O
+"
+"	O
+"
+"	O
+Awardee	O
+of	O
+City	O
+Competition	O
+of	O
+pianists	O
+(Almaty,	O
+Kazakhstan)	O
+(2007)	O
+"
+"	O
+"
+"	O
+Complete	O
+courses	O
+of	O
+drawing	O
+(School	O
+of	O
+arts	O
+Umai,	O
+Almaty,	O
+Kazakhstan)	O
+(2001-2006)	O
+"
+"	O
+"
+"	O
+Awardee	O
+of	O
+Region	O
+School	O
+Competition	O
+“History	O
+of	O
+Kazakhstan”	O
+(Almaty,	O
+Kazakhstan)	O
+(2011)	O
+"
+"	O
+"
+"	O
+"
+"	O
+.	.
+|Educational	O
+Qualification:	O
+|	O
+|	O
+"
+"	O
+|	O
+|	O
+|	O
+|	O
+|	O
+"
+"	O
+|	O
+|	O
+|	O
+"
+"	O
+|Bachelor	B-Degree
+of	I-Degree
+Science	I-Degree
+in	I-Degree
+Civil	I-Degree
+Engineering	I-Degree
+Degree	I-Degree
+|	O
+|	O
+"
+"	O
+|Al	B-College Name
+Hosn	I-College Name
+University	I-College Name
+-	O
+Abu	B-Location
+Dhabi,	I-Location
+U.A.E.	I-Location
+|	O
+|	O
+"
+"	O
+|2009	O
+-	O
+Graduated	O
+on	O
+August	B-Graduation Year
+2014.0	I-Graduation Year
+|	O
+|	O
+"
+"	O
+|	O
+|	O
+|	O
+"
+"	O
+|High	B-Degree
+School	I-Degree
+Graduate	I-Degree
+|	O
+|	O
+"
+"	O
+|Al	B-College Name
+Dhafra	I-College Name
+School	I-College Name
+-	O
+Abu	B-Location
+Dhabi,	I-Location
+U.A.E.	I-Location
+|	O
+|	O
+"
+"	O
+|1994	O
+-	O
+2008.0	B-Graduation Year
+|	O
+|	O
+"
+"	O
+|	O
+|	O
+|	O
+|	O
+|	O
+"
+"	O
+"
+"	O
+.	.
